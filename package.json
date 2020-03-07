@@ -1,0 +1,49 @@
+{
+    "name": "yarra-valley",
+    "displayName": "Yarra Valley",
+    "version": "0.1.0",
+    "publisher": "dustypomerleau",
+    "description": "Your new favorite dark theme for Visual Studio Code",
+    "homepage": "https://github.com/dustypomerleau/yarra-valley",
+    "author": {
+      "name": "dustypomerleau"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/dustypomerleau/yarra-valley"
+    },
+    "bugs": {
+      "url": "https://github.com/dustypomerleau/yarra-valley/issues"
+    },
+    "license": "Please see LICENSE.md",
+    "galleryBanner": {
+      "color": "#292d3e",
+      "theme": "dark"
+    },
+    "icon": "images/icon.png",
+    "keywords": [
+      "dark",
+      "theme",
+      "vibrant",
+      "yarra",
+      "valley"
+    ],
+    "categories": [
+      "Themes"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "Yarra Valley",
+          "uiTheme": "vs",
+          "path": "./themes/yarra-valley.json"
+        }
+      ]
+    },
+    "engines": {
+      "vscode": "^1.42.0"
+    },
+    "devDependencies": {
+      "vscode": "^1.42.0"
+    }
+  }
