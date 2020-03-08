@@ -99,13 +99,14 @@
       }
     },
     {
-      "name": "navy: default for variables and constants",
+      "name": "taupe: default for variables and constants",
       "scope": [
         "constant",
         "entity.name.function.java",
         "entity.name.function.member.cpp",
         "entity.name.record.field.accessor.elm",
         "entity.name.type.class.module.erlang",
+        "source.ts meta.function-call entity.name.function",
         "JSXNested",
         "keyword.other.unit",
         "meta",
@@ -170,7 +171,6 @@
         "meta.structure.tuple.erlang",
         "meta.vector.clojure",
         "punctuation.accessor.cs",
-        "punctuation.accessor.ts",
         "punctuation.definition.asciidoc",
         "punctuation.definition.constant.elixir",
         "punctuation.definition.constant.ruby",
@@ -188,7 +188,6 @@
         "punctuation.separator.dot-access",
         "punctuation.separator.key-value",
         "punctuation.separator.method.crystal",
-        "punctuation.separator.method.elixir",
         "punctuation.separator.method.ruby",
         "punctuation.separator.module-function.erlang",
         "punctuation.separator.namespace.access.cpp",
@@ -226,10 +225,13 @@
       "scope": [
         "constant.language.unit.haskell",
         "markup.heading.block-attribute.asciidoc",
+        "meta.brace.round.ts",
+        "meta.brace.square.ts",
         "meta.preprocessor.haskell",
         "meta.tag",
         "punctuation.definition.fenced.markdown",
         "punctuation.definition",
+        "punctuation.separator.method.elixir",
         "punctuation",
         "text.asciidoc markup.code markup.heading"
       ],
