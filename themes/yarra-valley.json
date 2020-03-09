@@ -178,7 +178,6 @@
         "punctuation.separator.dict.python",
         "punctuation.separator.dictionary.key-value.json",
         "punctuation.separator.key-value",
-        "punctuation.separator.method.crystal",
         "punctuation.separator.method.ruby",
         "punctuation.separator.module-function.erlang",
         "punctuation.separator.namespace.access.cpp",
