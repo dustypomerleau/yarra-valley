@@ -57,12 +57,11 @@
       }
     },
     {
-      "name": "red: numbers, language constants, tags",
+      "name": "red: numbers, language constants",
       "scope": [
         "constant.language",
         "constant.numeric",
         "entity.name.function.macro.erlang",
-        "entity.name.tag",
         "markup.changed.git_gutter",
         "markup.deleted.git_gutter",
         "markup.fenced_code.block.markdown",
@@ -187,7 +186,6 @@
         "punctuation.separator.period.python",
         "punctuation.separator.pointer-access.c",
         "punctuation.separator.pointer-access",
-        "punctuation.separator.variable.crystal",
         "punctuation.separator.variable.ruby",
         "punctuation.type.flowtype",
         "source.python punctuation.section",
@@ -247,7 +245,7 @@
         "constant.character.format.placeholder.other.python",
         "constant.numeric.math.tex",
         "constant.other.placeholder.go",
-        "entity.name.tag.html",
+        "entity.name.tag",
         "entity.other.attribute-name.id.css",
         "markup.list.bullet.asciidoc",
         "meta.declaration.exports.haskell entity.name.function.haskell",
