@@ -91,6 +91,7 @@
         "entity.name.type.module",
         "entity.other.inherited-class",
         "keyword.control.preamble.latex",
+        "keyword.type.cs",
         "source.haskell entity.name.namespace",
         "variable.language"
       ],
@@ -104,6 +105,7 @@
         "constant",
         "entity.name.function.java",
         "entity.name.function.call.cpp",
+        "entity.name.function.cs",
         "entity.name.function.member.cpp",
         "entity.name.record.field.accessor.elm",
         "entity.name.type.class.module.erlang",
@@ -164,7 +166,6 @@
         "meta.separator",
         "meta.structure.tuple.erlang",
         "meta.vector.clojure",
-        "punctuation.accessor.cs",
         "punctuation.definition.constant.elixir",
         "punctuation.definition.constant.ruby",
         "punctuation.definition.list.begin.markdown",
@@ -285,7 +286,6 @@
         "entity.other.attribute-name.pseudo-element.css",
         "keyword.control.layout.tex",
         "keyword.control.ref.latex",
-        "keyword.type.cs",
         "markup.italic.quotes.asciidoc",
         "meta.function.lua entity.name.function.lua",
         "meta.method.identifier entity.name.function.java",
@@ -356,7 +356,6 @@
       "name": "light pink: keys, function calls",
       "scope": [
         "constant.other.general.math.tex",
-        "entity.name.function.cs",
         "entity.name.function.dart",
         "entity.name.function.lua",
         "entity.name.function.rust",
@@ -383,6 +382,7 @@
         "support.type.property-name",
         "variable.other.constant.elixir",
         "variable.other.object.access.cpp",
+        "variable.other.object.cs",
         "variable.other.object.java",
         "variable.other.object.ts",
         "variable.other.object"
