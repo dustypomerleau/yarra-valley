@@ -629,7 +629,7 @@
     "editorGroup.dropBackground": "#cac0a980",
     "editorGroupHeader.noTabsBackground": "#242837",
     "editorGroupHeader.tabsBackground": "#1c1f2b",
-    "editorGutter.addedBackground": "#85990040",
+    "editorGutter.addedBackground": "#85990050",
     "editorGutter.background": "#292d3e",
     "editorGutter.deletedBackground": "#ff434050",
     "editorGutter.modifiedBackground": "#535664",
