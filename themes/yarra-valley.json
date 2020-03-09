@@ -268,6 +268,7 @@
         "support.function.core.rust",
         "variable.interpolation",
         "variable.other.readwrite.global.pre-defined.ruby",
+        "entity.name.tag.html",
         "variable.other.readwrite.global.ruby"
       ],
       "settings": {
@@ -306,6 +307,7 @@
         "constant.other.symbol", // atoms
         "entity.name.type.namespace.scope-resolution.cpp",
         "entity.name.variable.parameter.cs",
+        "entity.other.attribute-name.html",
         "markup.heading.asciidoc",
         "markup.heading.block-attribute.asciidoc",
         "markup.list meta.paragraph.markdown",
