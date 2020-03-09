@@ -7,6 +7,8 @@
       "scope": [
         "comment",
         "punctuation.definition.comment",
+        "source.python string.quoted.docstring.multi punctuation.definition.string.begin",
+        "source.python string.quoted.docstring.multi punctuation.definition.string.end",
         "string.quoted.docstring"
       ],
       "settings": {
@@ -174,8 +176,6 @@
         "punctuation.definition.quote.begin.markdown",
         "punctuation.definition.raw.markdown",
         "punctuation.separator.clause-head-body.erlang",
-        "punctuation.separator.colon.python",
-        "punctuation.separator.dict.python",
         "punctuation.separator.dictionary.key-value.json",
         "punctuation.separator.key-value",
         "punctuation.separator.method.ruby",
@@ -183,12 +183,10 @@
         "punctuation.separator.namespace.access.cpp",
         "punctuation.separator.namespace.ruby",
         "punctuation.separator.other.crystal",
-        "punctuation.separator.period.python",
         "punctuation.separator.pointer-access.c",
         "punctuation.separator.pointer-access",
         "punctuation.separator.variable.ruby",
         "punctuation.type.flowtype",
-        "source.python punctuation.section",
         "source.rust storage.modifier",
         "storage.modifier.import.java punctuation.separator.java",
         "storage",
@@ -227,7 +225,6 @@
         "punctuation.definition.fenced.markdown",
         "punctuation.definition",
         "punctuation.separator.method.elixir",
-        "punctuation.separator.period.python",
         "punctuation",
         "source.js meta.delimiter",
         "support.asciidoc",
