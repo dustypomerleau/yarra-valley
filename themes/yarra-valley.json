@@ -21,6 +21,7 @@
         "entity.name.class.lua",
         "entity.name.function.asciidoc",
         "keyword.control.at-rule",
+        "markup.admonition.asciidoc",
         "markup.heading.blocktitle.asciidoc",
         "markup.table.cell.delimiter.asciidoc",
         "meta.attribute.rust",
@@ -91,7 +92,6 @@
         "entity.other.inherited-class",
         "keyword.control.preamble.latex",
         "source.haskell entity.name.namespace",
-        "text.asciidoc markup.heading",
         "variable.language"
       ],
       "settings": {
@@ -151,8 +151,6 @@
     {
       "name": "orange: keywords, control, storage",
       "scope": [
-        "constant.asciidoc",
-        "constant.character.asciidoc",
         "entity.other.attribute-name.class.css",
         "kewyword.operator.union.flowtype", // [sic]
         "keyword.control.newline.tex",
@@ -160,13 +158,8 @@
         "markdown.heading",
         "markup.heading | markup.heading entity.name",
         "markup.heading.markdown punctuation.definition.heading.markdown",
-        "markup.heading.marker.asciidoc",
         "markup.heading.setext",
-        "markup.macro.inline.passthrough.asciidoc",
-        "markup.other.url.asciidoc",
         "markup.quote punctuation.definition.blockquote.markdown",
-        "markup.substitution.attribute-reference.asciidoc",
-        "markup.table.delimiter.asciidoc",
         "meta.separator",
         "meta.structure.tuple.erlang",
         "meta.vector.clojure",
@@ -179,7 +172,6 @@
         "punctuation.dot.dart",
         "punctuation.other.colon.go",
         "punctuation.other.period.go",
-        "punctuation.separator.asciidoc",
         "punctuation.separator.clause-head-body.erlang",
         "punctuation.separator.colon.python",
         "punctuation.separator.dict.python",
@@ -204,15 +196,13 @@
         "source.rust storage.modifier",
         "storage.modifier.import.java punctuation.separator.java",
         "storage",
-        "support.asciidoc",
         "support.function.be.latex",
         "support.function.section.latex",
         "support.function.textbf.latex",
         "support.function.textit.latex",
         "support.function.url.latex",
-        "text.asciidoc constant.other.symbol",
         "text.asciidoc markup.code",
-        "variable.line-break.asciidoc",
+        "text.asciidoc markup.heading",
         "variable.other.anonymous.elixir punctuation.definition.variable.elixir"
       ],
       "settings": {
@@ -222,8 +212,14 @@
     {
       "name": "blue: punctuation",
       "scope": [
+        "constant.asciidoc",
+        "constant.character.asciidoc",
         "constant.language.unit.haskell",
         "markup.heading.block-attribute.asciidoc",
+        "markup.heading.marker.asciidoc",
+        "markup.macro.inline.passthrough.asciidoc",
+        "markup.other.url.asciidoc",
+        "markup.table.delimiter.asciidoc",
         "meta.brace.round.ts",
         "meta.brace.square.ts",
         "meta.preprocessor.haskell",
@@ -233,7 +229,10 @@
         "punctuation.separator.method.elixir",
         "punctuation.separator.period.python",
         "punctuation",
-        "text.asciidoc markup.code markup.heading"
+        "support.asciidoc",
+        "text.asciidoc constant.other.symbol",
+        "text.asciidoc markup.code markup.heading",
+        "variable.line-break.asciidoc"
       ],
       "settings": {
         "foreground": "#4ce7ff"
@@ -367,9 +366,7 @@
         "entity.name.record.field.elm",
         "entity.other.attribute-name",
         "entity.other.inherited-class.haskell",
-        "markup.admonition.asciidoc",
-        "markup.heading.list.asciidoc",
-        "markup.heading.list.asciidoc",
+        "markup.substitution.attribute-reference.asciidoc",
         "meta.function-call entity.name.function",
         "meta.function-call.crystal entity.name.function.crystal",
         "meta.function-call.php",
@@ -403,6 +400,7 @@
         "constant.character.escape",
         "constant.character.numeric.regexp",
         "constant.character",
+        "markup.heading.list.asciidoc",
         "markup.highlight.asciidoc",
         "string constant.other.placeholder"
       ],
