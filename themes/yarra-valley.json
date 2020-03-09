@@ -667,7 +667,7 @@
     "editorSuggestWidget.background": "#3e4251",
     "editorSuggestWidget.border": "#97907f",
     "editorSuggestWidget.foreground": "#fdf1d4",
-    "editorSuggestWidget.highlightForeground": "#cc7d2a",
+    "editorSuggestWidget.highlightForeground": "#e58d2f",
     "editorSuggestWidget.selectedBackground": "#242837",
     "editorUnnecessaryCode.opacity": "#000000b3",
     "editorWarning.foreground": "#d33682",
