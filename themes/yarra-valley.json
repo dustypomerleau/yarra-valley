@@ -145,7 +145,7 @@
         "invalid"
       ],
       "settings": {
-        "foreground": "#dc322f"
+        "foreground": "#ff4340"
       }
     },
     {
@@ -538,7 +538,7 @@
         "markup.deleted"
       ],
       "settings": {
-        "foreground": "#dc322f80"
+        "foreground": "#ff434080"
       }
     },
     {
@@ -565,7 +565,7 @@
     {
       "scope": "token.error-token",
       "settings": {
-        "foreground": "#dc322f"
+        "foreground": "#ff4340"
       }
     },
     {
@@ -593,7 +593,7 @@
     "button.foreground": "#fdf1d4",
     "button.hoverBackground": "#535664",
     "debugExceptionWidget.background": "#3e4251",
-    "debugExceptionWidget.border": "#dc322f",
+    "debugExceptionWidget.border": "#ff4340",
     "debugToolBar.background": "#242837",
     "descriptionForeground": "#fdf1d4",
     "diffEditor.insertedTextBackground": "#aecc0030",
@@ -624,14 +624,14 @@
     "editorBracketMatch.border": "#83b4d600",
     "editorCodeLens.foreground": "#fdf1d4",
     "editorCursor.foreground": "#fdf1d4",
-    "editorError.foreground": "#dc322f",
+    "editorError.foreground": "#ff4340",
     "editorGroup.border": "#3e4251",
     "editorGroup.dropBackground": "#cac0a980",
     "editorGroupHeader.noTabsBackground": "#242837",
     "editorGroupHeader.tabsBackground": "#1c1f2b",
     "editorGutter.addedBackground": "#85990040",
     "editorGutter.background": "#292d3e",
-    "editorGutter.deletedBackground": "#dc322f50",
+    "editorGutter.deletedBackground": "#ff434050",
     "editorGutter.modifiedBackground": "#535664",
     "editorHint.foreground": "#268bd2",
     "editorHoverWidget.background": "#3e4251",
@@ -651,8 +651,8 @@
     "editorOverviewRuler.bracketMatchForeground": "#83b4d6",
     "editorOverviewRuler.commonContentForeground": "#474e6c",
     "editorOverviewRuler.currentContentForeground": "#535664",
-    "editorOverviewRuler.deletedForeground": "#dc322f50",
-    "editorOverviewRuler.errorForeground": "#dc322fa0",
+    "editorOverviewRuler.deletedForeground": "#ff434050",
+    "editorOverviewRuler.errorForeground": "#ff4340a0",
     "editorOverviewRuler.findMatchForeground": "#ff9d35",
     "editorOverviewRuler.incomingContentForeground": "#85990080",
     "editorOverviewRuler.infoForeground": "#2aa19890",
@@ -674,7 +674,7 @@
     "editorWhitespace.foreground": "#97907f90",
     "editorWidget.background": "#3e4251",
     "editorWidget.border": "#97907f",
-    "errorForeground": "#dc322f",
+    "errorForeground": "#ff4340",
     "extensionButton.prominentBackground": "#3e4251",
     "extensionButton.prominentForeground": "#fdf1d4",
     "extensionButton.prominentHoverBackground": "#cc7d2a",
@@ -693,7 +693,7 @@
     "input.placeholderForeground": "#97907f",
     "inputOption.activeBorder": "#4ce7ff",
     "inputValidation.errorBackground": "#242837",
-    "inputValidation.errorBorder": "#dc322f",
+    "inputValidation.errorBorder": "#ff4340",
     "inputValidation.infoBackground": "#242837",
     "inputValidation.infoBorder": "#2aa198",
     "inputValidation.warningBackground": "#242837",
