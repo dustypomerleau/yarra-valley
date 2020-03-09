@@ -83,6 +83,7 @@
     {
       "name": "gray: classes, modules, language variables",
       "scope": [
+        "meta.preprocessor.haskell",
         "entity.name.class",
         "entity.name.package.go",
         "entity.name.section",
@@ -220,7 +221,6 @@
         "meta.brace.round.ts",
         "meta.brace.square.ts",
         "meta.metadata.simple.clojure",
-        "meta.preprocessor.haskell",
         "meta.tag",
         "punctuation.definition.fenced.markdown",
         "punctuation.definition",
