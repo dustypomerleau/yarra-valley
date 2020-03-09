@@ -1,16 +1,17 @@
-#292d3e
+main theme colors
+#292d3e background
 #4ce7ff
 #7e818b comments
 #8af899
-#99c2eb 2
+#99c2eb
 #abb8c0
 #aecc00
-#c651e5 4
+#c651e5
 #cac0a9
 #ee37aa
 #f14360
-#ff89b5 1
-#ff9d35 3
+#ff89b5
+#ff9d35
 
 background tints
 #3e4251
