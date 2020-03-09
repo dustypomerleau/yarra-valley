@@ -47,6 +47,7 @@
         "support.type.builtin.primitive.flowtype",
         "support.type.class.flowtype",
         "text.html.derivative variable.language",
+        "support.type.vendored.property-name.css",
         "variable.other.readwrite"
       ],
       "settings": {
@@ -70,7 +71,6 @@
         "meta.function.embedded.latex",
         "support.class",
         "support.constant.core.rust",
-        "support.constant.property-value.css",
         "text.asciidoc markup.raw",
         "text.html.markdown markup.inline.raw.markdown",
         "variable.language.elixir",
@@ -282,7 +282,7 @@
         "entity.global.clojure",
         "entity.name.function",
         "entity.name.section.latex",
-        "entity.other.attribute-name.pseudo-class.css",
+        "entity.name.tag.css",
         "entity.other.attribute-name.pseudo-element.css",
         "keyword.control.layout.tex",
         "keyword.control.ref.latex",
@@ -306,7 +306,6 @@
         "constant.other.reference.label.latex",
         "constant.other.reference.link.markdown",
         "constant.other.symbol", // atoms
-        "entity.name.tag.css",
         "entity.name.type.namespace.scope-resolution.cpp",
         "entity.name.variable.parameter.cs",
         "markup.heading.asciidoc",
@@ -326,11 +325,13 @@
         "storage.type.elm",
         "storage.type.haskell",
         "support.constant.attribute-name.asciidoc",
+        "support.type.property-name.css",
         "text.asciidoc markup.macro.block.general string.unquoted",
         "text.asciidoc markup.other.url string.unquoted",
         "variable.language.rust",
         "variable.other",
         "variable.parameter",
+        "support.type.property-name.media.css",
         "variable.type.elm"
       ],
       "settings": {
@@ -356,8 +357,10 @@
       "name": "light pink: keys, function calls",
       "scope": [
         "constant.other.general.math.tex",
+        "entity.other.attribute-name.pseudo-element.css",
         "entity.name.function.dart",
         "entity.name.function.lua",
+        "entity.other.attribute-name.pseudo-class.css",
         "entity.name.function.rust",
         "entity.name.record.field.elm",
         "entity.other.attribute-name",
