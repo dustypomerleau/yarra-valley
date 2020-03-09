@@ -1,0 +1,45 @@
+#292d3e
+#4ce7ff
+#7e818b comments
+#8af899
+#99c2eb 2
+#abb8c0
+#aecc00
+#c651e5 4
+#cac0a9
+#ee37aa
+#f14360
+#ff89b5 1
+#ff9d35 3
+
+background tints
+#3e4251
+#535664
+#696c77
+#7e818b
+
+background shades
+#242837
+#202431
+#1c1f2b
+
+background monochromes
+#33384d
+#3d435d
+#474e6c
+
+foreground shades
+#e3d8be
+#cac0a9
+#b1a894
+#97907f
+
+orange shades
+#e58d2f
+#cc7d2a
+#b26d25
+
+taupe monochromes
+#fdf1d4
+#fce9bc
+#fbe1a3
