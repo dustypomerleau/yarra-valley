@@ -213,6 +213,7 @@
         "constant.asciidoc",
         "constant.character.asciidoc",
         "constant.language.unit.haskell",
+        "keyword.other.period.elm",
         "markup.heading.block-attribute.asciidoc",
         "markup.heading.marker.asciidoc",
         "markup.macro.inline.passthrough.asciidoc",
