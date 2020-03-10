@@ -91,6 +91,7 @@
         "entity.name.type.class",
         "entity.name.type.interface.ts",
         "entity.name.type.module",
+        "entity.other.attribute-name.html",
         "entity.other.attribute-name.jsx",
         "entity.other.inherited-class",
         "keyword.control.preamble.latex",
@@ -98,6 +99,7 @@
         "meta.preprocessor.haskell",
         "source.haskell entity.name.namespace",
         "source.js constant.other.object.key.js string.unquoted.js",
+        "support.class.ruby",
         "variable.language"
       ],
       "settings": {
@@ -160,7 +162,6 @@
       "name": "orange: keywords, control, storage",
       "scope": [
         "entity.other.attribute-name.class.css",
-        "kewyword.operator.union.flowtype", // [sic]
         "keyword.control.newline.tex",
         "keyword",
         "markdown.heading",
@@ -179,14 +180,11 @@
         "punctuation.separator.clause-head-body.erlang",
         "punctuation.separator.dictionary.key-value.json",
         "punctuation.separator.key-value",
-        "punctuation.separator.method.ruby",
         "punctuation.separator.module-function.erlang",
         "punctuation.separator.namespace.access.cpp",
-        "punctuation.separator.namespace.ruby",
         "punctuation.separator.other.crystal",
         "punctuation.separator.pointer-access.c",
         "punctuation.separator.pointer-access",
-        "punctuation.separator.variable.ruby",
         "punctuation.type.flowtype",
         "source.rust storage.modifier",
         "storage.modifier.import.java punctuation.separator.java",
@@ -217,23 +215,23 @@
         "markup.macro.inline.passthrough.asciidoc",
         "markup.other.url.asciidoc",
         "markup.table.delimiter.asciidoc",
+        "meta.brace.curly.js",
         "meta.brace.round.js",
-        "meta.brace.square.js",
         "meta.brace.round.ts",
+        "meta.brace.square.js",
         "meta.brace.square.ts",
         "meta.metadata.simple.clojure",
         "meta.tag",
         "punctuation.definition.fenced.markdown",
         "punctuation.definition",
+        // "punctuation.section.embedded.begin.jsx",
+        // "punctuation.section.embedded.end.jsx",
         "punctuation.separator.method.elixir",
         "punctuation",
         "source.js meta.delimiter",
         "support.asciidoc",
         "text.asciidoc constant.other.symbol",
         "text.asciidoc markup.code markup.heading",
-        "meta.brace.curly.js",
-        "punctuation.section.embedded.begin.jsx",
-        "punctuation.section.embedded.end.jsx",
         "variable.line-break.asciidoc"
       ],
       "settings": {
@@ -312,7 +310,7 @@
         "constant.other.symbol", // atoms
         "entity.name.type.namespace.scope-resolution.cpp",
         "entity.name.variable.parameter.cs",
-        "entity.other.attribute-name.html",
+        // "entity.other.attribute-name.html",
         "markup.heading.asciidoc",
         "markup.heading.block-attribute.asciidoc",
         "markup.list meta.paragraph.markdown",
@@ -382,7 +380,6 @@
         "source.java storage.type",
         "source.python meta.function-call",
         "string.other.link.description.title.markdown",
-        "support.class.ruby",
         "support.function.builtin.go",
         "support.function.construct.php",
         "support.function.mutator.js",
@@ -423,16 +420,26 @@
       }
     },
     {
-      "name": "self, this",
+      "name": "self, this (TS)",
       "scope": [
         "markup.admonition entity.name.function.asciidoc",
         "variable.language.self.crystal",
         "variable.language.special.self.python",
-        "variable.language.this"
+        "variable.language.this.ts"
       ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#ee37aa"
+      }
+    },
+    {
+      "name": "this (JS)",
+      "scope": [
+        "variable.language.this"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#99c2eb"
       }
     },
     {
