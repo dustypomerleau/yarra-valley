@@ -224,8 +224,6 @@
         "meta.tag",
         "punctuation.definition.fenced.markdown",
         "punctuation.definition",
-        // "punctuation.section.embedded.begin.jsx",
-        // "punctuation.section.embedded.end.jsx",
         "punctuation.separator.method.elixir",
         "punctuation",
         "source.js meta.delimiter",
