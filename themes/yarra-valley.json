@@ -91,6 +91,7 @@
         "entity.name.type.class",
         "entity.name.type.interface.ts",
         "entity.name.type.module",
+        "entity.other.attribute-name.jsx",
         "entity.other.inherited-class",
         "keyword.control.preamble.latex",
         "keyword.type.cs",
@@ -230,6 +231,9 @@
         "support.asciidoc",
         "text.asciidoc constant.other.symbol",
         "text.asciidoc markup.code markup.heading",
+        "meta.brace.curly.js",
+        "punctuation.section.embedded.begin.jsx",
+        "punctuation.section.embedded.end.jsx",
         "variable.line-break.asciidoc"
       ],
       "settings": {
@@ -251,6 +255,7 @@
         "punctuation.quasi.element.begin.js",
         "punctuation.quasi.element.end.js",
         "punctuation.section.embedded",
+        "source.js support.class.component",
         "storage.type.format.python",
         "string.other.link.description.markdown",
         "string.other.link.title.markdown",
