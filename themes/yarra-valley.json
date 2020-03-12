@@ -108,6 +108,7 @@
         "variable.other.readwrite.module.elixir",
         "variable.other.object.cs",
         "variable.other.object.access.cpp",
+        "meta.function-call.crystal entity.name.function.crystal",
         "variable.language"
       ],
       "settings": {
@@ -128,7 +129,6 @@
         "entity.other.inherited-class.haskell",
         "meta.attribute.rust",
         "meta.function-call entity.name.function",
-        "meta.function-call.crystal entity.name.function.crystal",
         "meta.function-call.php",
         "meta.object-literal.key",
         "meta.object.flowtype storage.type.function.js",
@@ -224,6 +224,7 @@
         "punctuation.separator.clause-head-body.erlang",
         "punctuation.separator.dictionary.key-value.json",
         "punctuation.separator.key-value",
+        "punctuation.separator.method.crystal",
         "punctuation.separator.method.elixir",
         "punctuation.separator.module-function.erlang",
         "punctuation.separator.namespace.access.cpp",
