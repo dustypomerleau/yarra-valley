@@ -2,5 +2,6 @@
 *.afdesign
 *.code-workspace
 *.vsix
+js-example.js
 vsc-extension-quickstart.md
 yarra-valley-icon*
