@@ -87,6 +87,7 @@
       "name": "gray: classes, modules, language variables",
       "scope": [
         "entity.name.class",
+        "entity.name.function.c",
         "entity.name.package.go",
         "entity.name.section",
         "entity.name.type.interface.ts",
@@ -132,6 +133,7 @@
         "meta.object.flowtype storage.type.function.js",
         "meta.object.flowtype variable.other.readwrite.js",
         "meta.property-name",
+        "entity.name.function.preprocessor.c",
         "source.java storage.type",
         "source.python meta.function-call",
         "support.function.builtin.go",
@@ -287,6 +289,7 @@
       "scope": [
         "constant.character.format.placeholder.other.python",
         "constant.numeric.math.tex",
+        "constant.other.placeholder.c",
         "constant.other.placeholder.go",
         "entity.name.tag",
         "entity.other.attribute-name.id.css",
@@ -340,6 +343,7 @@
         "storage.type.core.rust",
         "support.function.magic.python",
         "keyword.type.cs",
+        "meta.function.definition.parameters.c entity.name.function.c",
         "variable.language.dart"
       ],
       "settings": {
