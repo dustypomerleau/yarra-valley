@@ -40,6 +40,7 @@
         "meta.method-call.with-arguments.js variable.other.constant.js",
         "meta.method-call.with-arguments.js variable.other.readwrite.js",
         "parameter.variable.function.elixir",
+        "storage.type.cs",
         "source.cpp entity.name.scope-resolution",
         "source.haskell constant",
         "support.class.dart",
@@ -88,7 +89,6 @@
         "entity.name.class",
         "entity.name.package.go",
         "entity.name.section",
-        "entity.name.type.class",
         "entity.name.type.interface.ts",
         "entity.name.type.module",
         "meta.method-call entity.name.function",
@@ -96,7 +96,6 @@
         "entity.other.attribute-name.jsx",
         "entity.other.inherited-class",
         "keyword.control.preamble.latex",
-        "keyword.type.cs",
         "string.other.link.description.title.markdown",
         "markup.list meta.paragraph.markdown",
         "markup.list.numbered meta.paragraph.markdown",
@@ -106,10 +105,47 @@
         "source.js meta.function-call.without-arguments entity.name.function",
         "support.class.ruby",
         "variable.other.readwrite.module.elixir",
+        "variable.other.object.cs",
         "variable.language"
       ],
       "settings": {
         "foreground": "#abb8c0"
+      }
+    },
+    {
+      "name": "light pink: keys, function calls",
+      "scope": [
+        "constant.other.general.math.tex",
+        "entity.name.type.class",
+        "entity.name.class.lua",
+        "entity.name.function.dart",
+        "entity.name.record.field.elm",
+        "entity.other.attribute-name.pseudo-class.css",
+        "entity.other.attribute-name.pseudo-element.css",
+        "entity.other.attribute-name",
+        "entity.other.inherited-class.haskell",
+        "meta.attribute.rust",
+        "meta.function-call entity.name.function",
+        "meta.function-call.crystal entity.name.function.crystal",
+        "meta.function-call.php",
+        "meta.object-literal.key",
+        "meta.object.flowtype storage.type.function.js",
+        "meta.object.flowtype variable.other.readwrite.js",
+        "meta.property-name",
+        "source.java storage.type",
+        "source.python meta.function-call",
+        "support.function.builtin.go",
+        "support.function.construct.php",
+        "support.function.mutator.js",
+        "support.module.elm",
+        "support.type.property-name",
+        "variable.other.constant.elixir",
+        "variable.other.object.access.cpp",
+        "variable.other.object.ts",
+        "variable.other.object"
+      ],
+      "settings": {
+        "foreground": "#ff89b5"
       }
     },
     {
@@ -136,7 +172,7 @@
         "variable.other.crystal",
         "variable.other.erlang",
         "variable.other.lua",
-        "variable.other.object.cs",
+        // "variable.other.object.cs",
         "variable.other.object.js",
         "variable.other.object.property.cs",
         "variable.other.object.property.ts",
@@ -146,6 +182,7 @@
         "variable.other.property.js",
         "variable.other.property.ts",
         "variable.other.readwrite.js",
+        "variable.other.readwrite.cs",
         "variable.other.ruby",
         "variable"
       ],
@@ -178,6 +215,7 @@
         "meta.separator",
         "meta.structure.tuple.erlang",
         "meta.vector.clojure",
+        "punctuation.accessor.cs",
         "punctuation.definition.constant.elixir",
         "punctuation.definition.constant.ruby",
         // "punctuation.definition.quote.begin.markdown",
@@ -279,6 +317,7 @@
         "support.function.core.rust",
         "variable.interpolation",
         "variable.other.readwrite.global.pre-defined.ruby",
+        "meta.interpolation.cs variable.other.readwrite.cs",
         "variable.other.readwrite.global.ruby"
       ],
       "settings": {
@@ -299,8 +338,8 @@
         "meta.function.lua entity.name.function.lua",
         "meta.method.identifier entity.name.function.java",
         "storage.type.core.rust",
-        "storage.type.cs",
         "support.function.magic.python",
+        "keyword.type.cs",
         "variable.language.dart"
       ],
       "settings": {
@@ -359,42 +398,6 @@
       ],
       "settings": {
         "foreground": "#aecc00"
-      }
-    },
-    {
-      "name": "light pink: keys, function calls",
-      "scope": [
-        "constant.other.general.math.tex",
-        "entity.name.class.lua",
-        "entity.name.function.dart",
-        "entity.name.record.field.elm",
-        "entity.other.attribute-name.pseudo-class.css",
-        "entity.other.attribute-name.pseudo-element.css",
-        "entity.other.attribute-name",
-        "entity.other.inherited-class.haskell",
-        "meta.attribute.rust",
-        "meta.function-call entity.name.function",
-        "meta.function-call.crystal entity.name.function.crystal",
-        "meta.function-call.php",
-        "meta.object-literal.key",
-        "meta.object.flowtype storage.type.function.js",
-        "meta.object.flowtype variable.other.readwrite.js",
-        "meta.property-name",
-        "source.java storage.type",
-        "source.python meta.function-call",
-        "support.function.builtin.go",
-        "support.function.construct.php",
-        "support.function.mutator.js",
-        "support.module.elm",
-        "support.type.property-name",
-        "variable.other.constant.elixir",
-        "variable.other.object.access.cpp",
-        "variable.other.object.cs",
-        "variable.other.object.ts",
-        "variable.other.object"
-      ],
-      "settings": {
-        "foreground": "#ff89b5"
       }
     },
     {
