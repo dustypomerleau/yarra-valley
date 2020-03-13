@@ -100,6 +100,7 @@
         "keyword.other.preprocessor.haskell",
         "markup.list meta.paragraph.markdown",
         "markup.list.numbered meta.paragraph.markdown",
+        "meta.function-call",
         "meta.function-call entity.name.function",
         "meta.function-call.crystal entity.name.function.crystal",
         "meta.function-call.erlang entity.name.function.erlang",
@@ -136,7 +137,6 @@
         "entity.name.type.class",
         "entity.name.type.module",
         "meta.attribute.rust",
-        "meta.function-call.php",
         "meta.object-literal.key",
         "meta.object.flowtype storage.type.function.js",
         "meta.object.flowtype variable.other.readwrite.js",
@@ -417,7 +417,7 @@
       }
     },
     {
-      "name": "mint green: escapes, placeholders",
+      "name": "subdued mint green: escapes, placeholders",
       "scope": [
         "constant.character.escape",
         "constant.character.numeric.regexp",
@@ -427,7 +427,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#8af899"
+        "foreground": "#7cdf89"
       }
     },
     {
