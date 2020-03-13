@@ -54,7 +54,7 @@
         "support.type.property-name.media.css",
         "support.type.vendored.property-name.css",
         "text.html.derivative variable.language",
-        "variable.other.object.java",
+        "source.java storage.type",
         "variable.other.readwrite"
       ],
       "settings": {
@@ -118,6 +118,7 @@
         "variable.other.object.access.cpp",
         "meta.preprocessor.haskell",
         "keyword.other.preprocessor.haskell",
+        "variable.other.object.java",
         "variable.other.object.cs"
       ],
       "settings": {
@@ -143,13 +144,13 @@
         "meta.object.flowtype variable.other.readwrite.js",
         "meta.property-name",
         "source.haskell entity.name.namespace",
-        "source.java storage.type",
         "source.python meta.function-call",
         "support.function.construct.php",
         "support.function.mutator.js",
         "support.type.property-name",
         "variable.other.object.ts",
         "variable.other.object",
+        "storage.type.annotation.java",
         "variable.other.readwrite.module.elixir"
       ],
       "settings": {
@@ -194,6 +195,7 @@
         "variable.other.readwrite.js",
         "variable.other.ruby",
         "meta.declaration.exports.haskell entity.name.function.haskell",
+        "storage.type.generic.java",
         "variable"
       ],
       "settings": {
@@ -239,6 +241,7 @@
         "punctuation.separator.module-function.erlang",
         "punctuation.separator.namespace.access.cpp",
         "punctuation.separator.other.crystal",
+        "punctuation.separator.period.java",
         "punctuation.separator.pointer-access.c",
         "punctuation.separator.pointer-access",
         "punctuation.type.flowtype",
