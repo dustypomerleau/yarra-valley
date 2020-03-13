@@ -90,6 +90,7 @@
       "scope": [
         "entity.name.class",
         "entity.name.function.c",
+        "entity.name.function.dart",
         "entity.name.package.go",
         "entity.name.section",
         "entity.name.type.interface.ts",
@@ -124,7 +125,6 @@
       "scope": [
         "constant.other.general.math.tex",
         "entity.name.class.lua",
-        "entity.name.function.dart",
         "entity.name.function.preprocessor.c",
         "entity.name.function.preprocessor.cpp",
         "entity.name.record.field.elm",
@@ -222,6 +222,7 @@
         "punctuation.definition.constant.elixir",
         "punctuation.definition.constant.ruby",
         "punctuation.definition.entity.css",
+        "punctuation.dot.dart",
         "punctuation.separator.clause-head-body.erlang",
         "punctuation.separator.dictionary.key-value.json",
         "punctuation.separator.key-value",
@@ -302,6 +303,7 @@
         "punctuation.quasi.element.begin.js",
         "punctuation.quasi.element.end.js",
         "punctuation.section.embedded",
+        "source.dart string.interpolated variable.parameter",
         "source.js support.class.component",
         "storage.type.format.python",
         "string.other.link.description.markdown",
@@ -343,7 +345,6 @@
         "source.css keyword.control.at-rule",
         "storage.type.core.rust",
         "support.function.magic.python",
-        "variable.language.dart"
       ],
       "settings": {
         "foreground": "#8af899"
@@ -377,6 +378,7 @@
         "support.constant.attribute-name.asciidoc",
         "text.asciidoc markup.macro.block.general string.unquoted",
         "text.asciidoc markup.other.url string.unquoted",
+        "variable.language.dart",
         "variable.language.rust",
         "variable.other",
         "variable.parameter",
