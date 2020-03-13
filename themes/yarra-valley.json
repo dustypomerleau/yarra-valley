@@ -151,6 +151,8 @@
         "support.function.construct.php",
         "support.function.core.rust",
         "support.type.property-name",
+        "variable.other.readwrite.class.crystal",
+        "variable.other.readwrite.instance.crystal",
         "variable.other.readwrite.instance.ruby",
         "variable.other.readwrite.module.elixir"
       ],
