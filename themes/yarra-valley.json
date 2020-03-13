@@ -107,8 +107,6 @@
         "meta.function-call.crystal entity.name.function.crystal",
         "meta.function-call.erlang entity.name.function.erlang",
         "meta.method-call entity.name.function",
-        "meta.preprocessor.haskell",
-        "source.haskell entity.name.namespace",
         "source.js constant.other.object.key.js string.unquoted.js",
         "source.js meta.function-call.without-arguments entity.name.function",
         "string.other.link.description.title.markdown",
@@ -118,6 +116,8 @@
         "variable.language",
         "variable.other.constant.elixir",
         "variable.other.object.access.cpp",
+        "meta.preprocessor.haskell",
+        "keyword.other.preprocessor.haskell",
         "variable.other.object.cs"
       ],
       "settings": {
@@ -135,7 +135,6 @@
         "entity.name.record.field.elm",
         "entity.name.type.class",
         "entity.name.type.module",
-        "entity.other.inherited-class.haskell",
         "meta.attribute.rust",
         "meta.function-call entity.name.function",
         "meta.function-call.php",
@@ -143,6 +142,7 @@
         "meta.object.flowtype storage.type.function.js",
         "meta.object.flowtype variable.other.readwrite.js",
         "meta.property-name",
+        "source.haskell entity.name.namespace",
         "source.java storage.type",
         "source.python meta.function-call",
         "support.function.construct.php",
@@ -193,6 +193,7 @@
         "variable.other.readwrite.cs",
         "variable.other.readwrite.js",
         "variable.other.ruby",
+        "meta.declaration.exports.haskell entity.name.function.haskell",
         "variable"
       ],
       "settings": {
@@ -275,6 +276,7 @@
         "meta.brace.round.ts",
         "meta.brace.square.js",
         "meta.brace.square.ts",
+        "meta.declaration.exports.haskell",
         "meta.function.definition.elixir",
         "meta.metadata.simple.clojure",
         "meta.separator.markdown",
@@ -286,6 +288,7 @@
         "support.asciidoc",
         "text.asciidoc constant.other.symbol",
         "text.asciidoc markup.code markup.heading",
+        "meta.function.type-declaration.haskell",
         "variable.line-break.asciidoc"
       ],
       "settings": {
@@ -301,7 +304,7 @@
         "constant.other.placeholder.go",
         "entity.name.tag",
         "markup.list.bullet.asciidoc",
-        "meta.declaration.exports.haskell entity.name.function.haskell",
+        "meta.import.haskell entity.name.namespace",
         "meta.interpolation.cs variable.other.readwrite.cs",
         "punctuation.definition.list.begin.markdown",
         "punctuation.definition.template-expression.begin",
