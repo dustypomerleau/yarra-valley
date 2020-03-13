@@ -1,18 +1,19 @@
 main theme colors
+
 #292d3e background
-#4ce7ff
-#7cdf89
-#7e818b comments
-#8af899
-#99c2eb
-#abb8c0
-#aecc00
-#c651e5
-#cac0a9
-#ee37aa
-#f14360
-#ff89b5
-#ff9d35
+#4ce7ff punctuation
+#7cdf89 escape
+#7e818b comment
+#8af899 function definitions
+#99c2eb object
+#abb8c0 function call
+#aecc00 string
+#c651e5 argument, atom
+#cac0a9 foreground
+#ee37aa interpolation, regex
+#f14360 number, boolean
+#ff89b5 class, module
+#ff9d35 keyword, operator
 
 background tints
 #3e4251
