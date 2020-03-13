@@ -44,6 +44,7 @@
         "source.haskell constant",
         "source.java storage.type",
         "storage.type.cs",
+        "support.class.builtin.ts",
         "support.class.dart",
         "support.class.ruby",
         "support.function.builtin.go",
@@ -52,6 +53,8 @@
         "support.type.property-name.media.css",
         "support.type.vendored.property-name.css",
         "text.html.derivative variable.language",
+        "variable.other.object.ts",
+        "variable.other.object",
         "variable.other.readwrite"
       ],
       "settings": {
@@ -92,7 +95,6 @@
         "entity.name.function.guard.erlang",
         "entity.name.package.go",
         "entity.name.section",
-        "entity.name.type.interface.ts",
         "entity.other.attribute-name.html",
         "entity.other.attribute-name.pseudo-class.css",
         "entity.other.attribute-name",
@@ -102,12 +104,12 @@
         "markup.list meta.paragraph.markdown",
         "markup.list.numbered meta.paragraph.markdown",
         "meta.attribute.rust",
-        "meta.function-call",
         "meta.function-call entity.name.function",
         "meta.function-call.crystal entity.name.function.crystal",
         "meta.function-call.erlang entity.name.function.erlang",
         "meta.function-call.generic.python",
         "meta.function-call.python",
+        "meta.function-call",
         "meta.method-call entity.name.function",
         "meta.preprocessor.haskell",
         "source.js constant.other.object.key.js string.unquoted.js",
@@ -139,6 +141,7 @@
         "entity.name.package.go",
         "entity.name.record.field.elm",
         "entity.name.type.class",
+        "entity.name.type.interface.ts",
         "entity.name.type.module",
         "meta.object-literal.key",
         "meta.property-name",
@@ -148,8 +151,6 @@
         "support.function.construct.php",
         "support.function.core.rust",
         "support.type.property-name",
-        "variable.other.object.ts",
-        "variable.other.object",
         "variable.other.readwrite.instance.ruby",
         "variable.other.readwrite.module.elixir"
       ],
@@ -175,7 +176,6 @@
         "meta",
         "source.js meta.function-call entity.name.function",
         "source.js meta.method-call entity.name.function",
-        "source.ts meta.function-call entity.name.function",
         "storage.modifier.import.java",
         "storage.type.generic.java",
         "support.class.crystal",
@@ -197,6 +197,7 @@
         "variable.other.property.ts",
         "variable.other.readwrite.cs",
         "variable.other.readwrite.js",
+        "variable.other.readwrite.ts",
         "variable.other.ruby",
         "variable"
       ],
@@ -231,6 +232,7 @@
         "meta.structure.tuple.erlang",
         "meta.vector.clojure",
         "punctuation.accessor.cs",
+        "punctuation.accessor.ts",
         "punctuation.definition.constant.elixir",
         "punctuation.definition.constant.ruby",
         "punctuation.definition.entity.css",
@@ -361,7 +363,7 @@
         "meta.function.lua entity.name.function.lua",
         "meta.method.identifier entity.name.function.java",
         "source.css keyword.control.at-rule",
-        "support.function.magic.python",
+        "support.function.magic.python"
       ],
       "settings": {
         "foreground": "#8af899"
