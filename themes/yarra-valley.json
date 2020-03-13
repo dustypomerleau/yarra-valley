@@ -101,6 +101,7 @@
         "keyword.other.preprocessor.haskell",
         "markup.list meta.paragraph.markdown",
         "markup.list.numbered meta.paragraph.markdown",
+        "meta.attribute.rust",
         "meta.function-call",
         "meta.function-call entity.name.function",
         "meta.function-call.crystal entity.name.function.crystal",
@@ -139,13 +140,13 @@
         "entity.name.record.field.elm",
         "entity.name.type.class",
         "entity.name.type.module",
-        "meta.attribute.rust",
         "meta.object-literal.key",
         "meta.property-name",
         "source.haskell entity.name.namespace",
         "source.python meta.function-call",
         "storage.type.annotation.java",
         "support.function.construct.php",
+        "support.function.core.rust",
         "support.type.property-name",
         "variable.other.object.ts",
         "variable.other.object",
@@ -338,7 +339,6 @@
         "support.class.builtin.js",
         "support.class.latex",
         "support.class.math.latex",
-        "support.function.core.rust",
         "variable.interpolation",
         "variable.other.readwrite.global.pre-defined.ruby",
         "variable.other.readwrite.global.ruby"
@@ -361,7 +361,6 @@
         "meta.function.lua entity.name.function.lua",
         "meta.method.identifier entity.name.function.java",
         "source.css keyword.control.at-rule",
-        "storage.type.core.rust",
         "support.function.magic.python",
       ],
       "settings": {
@@ -429,6 +428,7 @@
         "constant.character",
         "markup.heading.list.asciidoc",
         "markup.highlight.asciidoc",
+        "storage.type.core.rust",
         "string constant.other.placeholder"
       ],
       "settings": {
