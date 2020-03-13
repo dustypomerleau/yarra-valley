@@ -17,7 +17,7 @@
       }
     },
     {
-      "name": "slate: module attributes, types, function call parameters",
+      "name": "slate: objects, function calls",
       "scope": [
         "constant.type-constructor.elm",
         "entity.name.function.asciidoc",
@@ -87,7 +87,7 @@
       }
     },
     {
-      "name": "gray: classes, modules, language variables",
+      "name": "gray: function calls, attributes",
       "scope": [
         "entity.name.class",
         "entity.name.function.c",
@@ -132,7 +132,7 @@
       }
     },
     {
-      "name": "light pink: keys, function calls",
+      "name": "light pink: modules, classes",
       "scope": [
         "constant.other.general.math.tex",
         "entity.name.class.js",
@@ -468,16 +468,6 @@
       "settings": {
         "fontStyle": "italic",
         "foreground": "#99c2eb"
-      }
-    },
-    {
-      "name": "HTML attributes",
-      "scope": [
-        "text.html.basic entity.other.attribute-name"
-      ],
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#cac0a9"
       }
     },
     {
