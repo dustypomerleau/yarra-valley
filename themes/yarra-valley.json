@@ -94,7 +94,6 @@
         "entity.name.package.go",
         "entity.name.section",
         "entity.name.type.interface.ts",
-        "entity.name.type.module",
         "entity.other.attribute-name.html",
         "entity.other.attribute-name.jsx",
         "entity.other.attribute-name.pseudo-class.css",
@@ -112,9 +111,9 @@
         "string.other.link.description.title.markdown",
         "support.class.ruby",
         "variable.language",
+        "variable.other.constant.elixir",
         "variable.other.object.access.cpp",
-        "variable.other.object.cs",
-        "variable.other.readwrite.module.elixir"
+        "variable.other.object.cs"
       ],
       "settings": {
         "foreground": "#abb8c0"
@@ -129,6 +128,7 @@
         "entity.name.function.preprocessor.cpp",
         "entity.name.record.field.elm",
         "entity.name.type.class",
+        "entity.name.type.module",
         "entity.other.inherited-class.haskell",
         "meta.attribute.rust",
         "meta.function-call entity.name.function",
@@ -144,9 +144,9 @@
         "support.function.mutator.js",
         "support.module.elm",
         "support.type.property-name",
-        "variable.other.constant.elixir",
         "variable.other.object.ts",
-        "variable.other.object"
+        "variable.other.object",
+        "variable.other.readwrite.module.elixir"
       ],
       "settings": {
         "foreground": "#ff89b5"
