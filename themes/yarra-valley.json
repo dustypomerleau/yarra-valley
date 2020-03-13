@@ -291,6 +291,7 @@
         "meta.brace.square.ts",
         "meta.declaration.exports.haskell",
         "meta.function.definition.elixir",
+        "meta.function.method.with-arguments.ruby",
         "meta.function.type-declaration.haskell",
         "meta.metadata.simple.clojure",
         "meta.separator.markdown",
