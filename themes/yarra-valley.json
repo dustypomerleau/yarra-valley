@@ -129,7 +129,6 @@
       "name": "light pink: keys, function calls",
       "scope": [
         "constant.other.general.math.tex",
-        "entity.name.class.lua",
         "entity.name.function.preprocessor.c",
         "entity.name.function.preprocessor.cpp",
         "entity.name.package.go",
@@ -303,6 +302,7 @@
       "name": "pink: interpolations, regular expressions",
       "scope": [
         "constant.character.format.placeholder.other.python",
+        "constant.language.lua",
         "constant.numeric.math.tex",
         "constant.other.placeholder.c",
         "constant.other.placeholder.go",
