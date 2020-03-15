@@ -77,6 +77,7 @@
         "meta.function.embedded.latex",
         "support.class",
         "support.constant.core.rust",
+        "support.variable.magic.python",
         "text.asciidoc markup.raw",
         "text.html.markdown markup.inline.raw.markdown",
         "variable.language.elixir",
