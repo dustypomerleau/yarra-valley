@@ -5,6 +5,12 @@ Here on the slopes of the Yarra, our syntax highlighting receives the same care 
 
 If you’re in search of a light theme, please consider [New England](https://marketplace.visualstudio.com/items?itemName=dustypomerleau.new-england).
 
+**NOTE:** If you are overwhelmed by a sea of purple in your JS or TS files, you may have VS Code's semantic highlighting enabled. This is layered on top of the syntax highlighting of your theme, and can be disabled with:
+
+```json
+ "editor.semanticHighlighting.enabled": false
+```
+
 ## Screenshots:
 
 ## Typescript
