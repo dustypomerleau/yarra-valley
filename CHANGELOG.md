@@ -2,6 +2,11 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.3.0]:** 2020-03-16
+
+- correct UI theme to use dark icons
+- minor updates to JS/TS and Elm
+
 ## **[0.2.0]:** 2020-03-16
 
 - bring JS syntax highlighting in line with TS, for visual consistency
