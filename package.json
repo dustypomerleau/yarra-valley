@@ -35,7 +35,7 @@
     "themes": [
       {
         "label": "Yarra Valley",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/yarra-valley.json"
       }
     ]
