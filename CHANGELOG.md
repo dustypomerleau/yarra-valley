@@ -2,6 +2,11 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.4.0]:** 2020-03-17
+
+- improve the visibility of find matches and selections (particularly in comments and docs)
+
+
 ## **[0.3.0]:** 2020-03-16
 
 - correct UI theme to use dark icons
