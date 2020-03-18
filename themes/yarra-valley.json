@@ -24,6 +24,7 @@
         "entity.name.function.clojure",
         "entity.name.function.lua",
         "entity.name.function.rust",
+        "entity.name.type.instance",
         "keyword.control.at-rule",
         "markup.admonition.asciidoc",
         "markup.heading.blocktitle.asciidoc",
@@ -42,12 +43,13 @@
         "source.cpp entity.name.scope-resolution",
         "source.haskell constant",
         "source.java storage.type",
+        "source.ts support.class",
         "storage.type.cs",
-        "support.class.builtin.ts",
         "support.class.dart",
         "support.class.ruby",
         "support.function.builtin.go",
         "support.function.lua",
+        "support.type.object",
         "support.type.property-name.css",
         "support.type.property-name.media.css",
         "support.type.vendored.property-name.css",
@@ -112,16 +114,17 @@
         "meta.function-call",
         "meta.method-call entity.name.function",
         "meta.preprocessor.haskell",
+        "source.elm meta.module.name support.module",
         "source.js constant.other.object.key.js string.unquoted.js",
         "source.js meta.function-call.without-arguments entity.name.function",
         "string.other.link.description.title.markdown",
+        "support.function.console.js",
         "support.function.go",
-        "source.elm meta.module.name support.module",
         "variable.language",
         "variable.other.constant.elixir",
         "variable.other.object.access.cpp",
         "variable.other.object.cs",
-        "variable.other.object.java",
+        "variable.other.object.java"
       ],
       "settings": {
         "foreground": "#abb8c0"
@@ -145,9 +148,11 @@
         "source.haskell entity.name.namespace",
         "source.python meta.function-call",
         "storage.type.annotation.java",
+        "support.class.builtin.js",
         "support.function.construct.php",
         "support.function.core.rust",
         "support.type.property-name",
+        "variable.other.class.js",
         "variable.other.readwrite.class.crystal",
         "variable.other.readwrite.instance.crystal",
         "variable.other.readwrite.instance.ruby",
@@ -218,7 +223,12 @@
       "scope": [
         "entity.name.section.markdown",
         "kewyword.operator.union.flowtype", // sic
+        "keyword.control.anchor.regexp",
         "keyword.control.newline.tex",
+        "keyword.operator.negation.regexp",
+        "keyword.operator.or.regexp",
+        "keyword.operator.quantifier.regexp",
+        "keyword.other.back-reference.regexp",
         "keyword",
         "markdown.heading",
         "markup.heading | markup.heading entity.name",
@@ -233,6 +243,7 @@
         "punctuation.definition.constant.elixir",
         "punctuation.definition.constant.ruby",
         "punctuation.definition.entity.css",
+        "punctuation.definition.group.capture.regexp",
         "punctuation.dot.dart",
         "punctuation.other.period.go",
         "punctuation.separator.clause-head-body.erlang",
@@ -279,11 +290,7 @@
         "markup.macro.inline.passthrough.asciidoc",
         "markup.other.url.asciidoc",
         "markup.table.delimiter.asciidoc",
-        "meta.brace.curly.js",
-        "meta.brace.round.js",
-        "meta.brace.round.ts",
-        "meta.brace.square.js",
-        "meta.brace.square.ts",
+        "meta.brace",
         "meta.declaration.exports.haskell",
         "meta.function.definition.elixir",
         "meta.function.method.with-arguments.ruby",
@@ -336,7 +343,6 @@
         "string.regexp meta.group",
         "string.regexp punctuation",
         "string.regexp",
-        "support.class.builtin.js",
         "support.class.latex",
         "support.class.math.latex",
         "variable.interpolation",
@@ -426,6 +432,7 @@
         "constant.character.escape",
         "constant.character.numeric.regexp",
         "constant.character",
+        "constant.other.character-class.regexp",
         "markup.heading.list.asciidoc",
         "markup.highlight.asciidoc",
         "storage.type.core.rust",
@@ -436,22 +443,11 @@
       }
     },
     {
-      "name": "JS method names",
-      "scope": [
-        "entity.name.method.js"
-      ],
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#cac0a9"
-      }
-    },
-    {
-      "name": "self, this (TS)",
+      "name": "self",
       "scope": [
         "markup.admonition entity.name.function.asciidoc",
         "variable.language.self.crystal",
-        "variable.language.special.self.python",
-        "variable.language.this.ts"
+        "variable.language.special.self.python"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -459,7 +455,7 @@
       }
     },
     {
-      "name": "this (JS)",
+      "name": "this",
       "scope": [
         "variable.language.this"
       ],
@@ -480,10 +476,9 @@
       }
     },
     {
-      "name": "markdown italic delimiters, ES7 bind operator",
+      "name": "markdown italic delimiters",
       "scope": [
         "punctuation.definition.italic.markdown",
-        "source.js constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -679,7 +674,7 @@
     "editor.foreground": "#cac0a9",
     "editor.hoverHighlightBackground": "#83b4d670",
     "editor.inactiveSelectionBackground": "#cac0a930",
-    "editor.lineHighlightBackground": "#3d435d",
+    "editor.lineHighlightBackground": "#33384d",
     "editor.lineHighlightBorder": "#3d435d",
     "editor.rangeHighlightBackground": "#3d435d",
     "editor.selectionBackground": "#474e6c",
