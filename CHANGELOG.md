@@ -2,6 +2,18 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.5.0]:** 2020-03-18
+
+- improve syntax highlighting consistency across languages
+  - Java
+  - C#
+  - JS
+  - TS
+
+- improve regex highlighting to better show operators and groups
+
+- improve legibility while coding, by dropping the brightness of the line highlight
+
 ## **[0.4.0]:** 2020-03-17
 
 - improve the visibility of find matches and selections (particularly in comments and docs)
