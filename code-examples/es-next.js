@@ -2174,3 +2174,5 @@ class Component extends React.Component {
     );
   }
 }
+
+let regex = /^ab*(cd)?ef{5}\1g\w+\d*[^\(xy\)24]$/
