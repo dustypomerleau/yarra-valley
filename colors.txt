@@ -30,6 +30,7 @@ background monochromes
 #33384d
 #3d435d
 #474e6c
+#51597b
 
 foreground shades
 #e3d8be
