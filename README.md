@@ -3,9 +3,7 @@
 
 Here on the slopes of the Yarra, our syntax highlighting receives the same care and attention as our cool climate pinot noir. Thanks for coming to visit. We hope you like it here, and we hope you stay.
 
-If you’re in search of a light theme, please consider [New England](https://marketplace.visualstudio.com/items?itemName=dustypomerleau.new-england).
-
-**NOTE:** If you are overwhelmed by a sea of purple in your JS or TS files, you may have VS Code's semantic highlighting enabled. This is layered on top of the syntax highlighting of your theme, and can be disabled with:
+**NOTE:** If your code doesn't look as expected, you may have VS Code's semantic highlighting enabled. This is layered on top of the syntax highlighting of your theme, and can be disabled with:
 
 ```json
  "editor.semanticHighlighting.enabled": false
@@ -57,6 +55,7 @@ If you’re in search of a light theme, please consider [New England](https://ma
 - Elm ([Elm](https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode))
 - Erlang ([erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang))
 - Go ([Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go))
+- GraphQL ([GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql))
 - Haskell ([Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell))
 - HTML
 - Java ([Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack))
@@ -73,24 +72,31 @@ If you’re in search of a light theme, please consider [New England](https://ma
 <!--
 ## Planned languages:
 
+Priority:
+- Swift
+- Reason ML
+- SQL
+- Shell Script
+- Objective-C
+- OCaml
+
+Then:
 - F#
 - Gleam
-- GraphQL
 - Idris
 - Julia
 - Kotlin
-- Objective-C
-- OCaml
 - Perl
 - Pony
 - R
-- Reason ML
 - reStructuredText
 - Scala
-- Shell Script
-- SQL
-- Swift
+- Scheme
 - TLA+
+
+Check frameworks:
+- Angular
+- Vue
 -->
 
-PRs for language-specific highlighting improvements are welcome. Scopes can be viewed by opening the command palette and selecting `Developer: Inspect Editor Tokens and Scopes`. Theme colors are listed in [`colors.txt`](./colors.txt).
+PRs for unsupported languages are welcome. Scopes can be viewed by opening the command palette and selecting `Developer: Inspect Editor Tokens and Scopes`. Theme colors are listed in [`colors.txt`](./colors.txt).
