@@ -89,7 +89,6 @@ Then:
 - Kotlin
 - Perl
 - Pony
-- R
 - reStructuredText
 - Scala
 - Scheme
