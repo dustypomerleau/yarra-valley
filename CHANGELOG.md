@@ -2,6 +2,14 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.7.0]:** 2020-03-22
+
+- add R support
+
+## **[0.6.0]:** 2020-03-21
+
+- add GraphQL support
+
 ## **[0.5.0]:** 2020-03-18
 
 - improve syntax highlighting consistency across languages
