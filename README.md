@@ -3,10 +3,16 @@
 
 Here on the slopes of the Yarra, our syntax highlighting receives the same care and attention as our cool climate pinot noir. Thanks for coming to visit. We hope you like it here, and we hope you stay.
 
-**NOTE:** If your code doesn't look as expected, you may have VS Code's semantic highlighting enabled. This is layered on top of the syntax highlighting of your theme, and can be disabled with:
+**NOTE:** If your code doesn't look as expected, you may have VS Code's semantic highlighting enabled. This is layered on top of the syntax highlighting of your theme, and can be disabled in your `settings.json` file:
 
 ```json
  "editor.semanticHighlighting.enabled": false
+```
+
+In addition, some extensions may enable their own semantic highlighting. In order to see the intended theme colors, this can also be disabled at the extension level. For example, when using C/C++ Intellisense:
+
+```json
+  "C_Cpp.enhancedColorization": "disabled"
 ```
 
 ## Screenshots:
