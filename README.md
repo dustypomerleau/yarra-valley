@@ -65,6 +65,7 @@ Here on the slopes of the Yarra, our syntax highlighting receives the same care 
 - Markdown
 - PHP
 - Python ([Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python))
+- R ([R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r))
 - Ruby ([Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) + [VSCode Ruby](https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby))
 - Rust ([Rust (rls)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust))
 - TypeScript
