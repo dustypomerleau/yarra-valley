@@ -161,6 +161,7 @@
         "support.type.property-name",
         "variable.other.class.js",
         "variable.other.readwrite.class.crystal",
+        "variable.other.readwrite.decorator.js",
         "variable.other.readwrite.instance.crystal",
         "variable.other.readwrite.instance.ruby",
         "variable.other.readwrite.module.elixir"
@@ -293,6 +294,7 @@
         "constant.asciidoc",
         "constant.character.asciidoc",
         "constant.language.unit.haskell",
+        "keyword.operator.decorator.js",
         "markup.heading.block-attribute.asciidoc",
         "markup.heading.marker.asciidoc",
         "markup.heading.setext",
