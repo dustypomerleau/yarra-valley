@@ -3,6 +3,15 @@
   "type": "dark",
   "tokenColors": [
     {
+      "name": "test",
+      "scope": [
+        // test scope
+      ],
+      "settings": {
+        "foreground": "#ffff00"
+      }
+    },
+    {
       "name": "comments",
       "scope": [
         "comment",
@@ -36,6 +45,7 @@
         "meta.function-call.crystal variable.other.crystal",
         "meta.function-call.erlang variable.other.erlang",
         "meta.function-call.php variable.other.php",
+        "meta.generic-where-clause.swift",
         "meta.method-call.with-arguments.js variable.other.constant.js",
         "meta.object.flowtype storage.type.function.js",
         "meta.object.flowtype variable.other.readwrite.js",
@@ -114,7 +124,6 @@
         "meta.function-call.generic.python",
         "meta.function-call.python",
         "meta.function-call",
-        "meta.generic-where-clause.swift",
         "meta.method-call entity.name.function",
         "meta.object-literal.key.js",
         "meta.preprocessor.haskell",
@@ -129,10 +138,12 @@
         "support.function.go",
         "support.function.swift",
         "support.type.builtin.graphql",
+        "support.variable.swift",
         "variable.language",
         "variable.other.constant.elixir",
         "variable.other.object.access.cpp",
-        "variable.other.object.cs"
+        "variable.other.object.cs",
+        "variable.other.swift"
       ],
       "settings": {
         "foreground": "#abb8c0"
@@ -200,7 +211,6 @@
         "support.class.crystal",
         "support.constant.ext.php",
         "support.function.mutator.js",
-        "support.variable.swift",
         "variable.language.prototype.js",
         "variable.other.block.crystal",
         "variable.other.block.ruby",
@@ -219,7 +229,6 @@
         "variable.other.readwrite.js",
         "variable.other.readwrite.ts",
         "variable.other.ruby",
-        "variable.other.swift",
         "variable"
       ],
       "settings": {
