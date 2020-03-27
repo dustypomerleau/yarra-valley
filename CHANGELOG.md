@@ -2,6 +2,10 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.8.0]:** 2020-03-28
+
+- add Swift support
+
 ## **[0.7.0]:** 2020-03-22
 
 - add R support
