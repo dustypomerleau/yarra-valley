@@ -74,13 +74,13 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - R ([R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r))
 - Ruby ([Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) + [VSCode Ruby](https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby))
 - Rust ([Rust (rls)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust))
+- Swift ([Swift Language](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift))
 - TypeScript
 
 <!--
 ## Planned languages:
 
 Priority:
-- Swift
 - Reason ML
 - SQL
 - Shell Script
