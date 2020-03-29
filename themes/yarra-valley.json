@@ -28,6 +28,7 @@
     {
       "name": "slate: objects, function calls",
       "scope": [
+        "constant.other.table-name.sql",
         "constant.type-constructor.elm",
         "entity.name.function.asciidoc",
         "entity.name.function.clojure",
@@ -106,6 +107,7 @@
     {
       "name": "gray: function calls, attributes",
       "scope": [
+        "constant.other.database-name.sql",
         "entity.name.class",
         "entity.name.function.c",
         "entity.name.function.dart",
