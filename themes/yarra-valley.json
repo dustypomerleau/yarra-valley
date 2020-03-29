@@ -284,6 +284,7 @@
         "punctuation.definition.constant.ruby",
         "punctuation.definition.entity.css",
         "punctuation.definition.group.capture.regexp",
+        "punctuation.definition.variable.php",
         "punctuation.dot.dart",
         "punctuation.other.period.go",
         "punctuation.separator.argument-label.swift",
