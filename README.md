@@ -74,6 +74,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - R ([R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r))
 - Ruby ([Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) + [VSCode Ruby](https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby))
 - Rust ([Rust (rls)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust))
+- shell script
 - Swift ([Swift Language](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift))
 - TypeScript
 
@@ -83,9 +84,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 Priority:
 - Reason ML
 - SQL
-- Shell Script
-- Objective-C
-- OCaml
 
 Then:
 - F#
@@ -93,16 +91,14 @@ Then:
 - Idris
 - Julia
 - Kotlin
+- Objective-C
+- OCaml
 - Perl
 - Pony
 - reStructuredText
 - Scala
 - Scheme
 - TLA+
-
-Check frameworks:
-- Angular
-- Vue
 -->
 
 PRs for unsupported languages are welcome. Scopes can be viewed by opening the command palette and selecting `Developer: Inspect Editor Tokens and Scopes`. Theme colors are listed in [`colors.txt`](./colors.txt).
