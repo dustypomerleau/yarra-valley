@@ -2,6 +2,10 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.10.0]:** 2020-03-29
+
+- add Reason support
+
 ## **[0.9.0]:** 2020-03-29
 
 - add shell script support
