@@ -69,7 +69,9 @@
         "variable.function.r",
         "variable.graphql",
         "variable.other.object",
-        "variable.other.readwrite"
+        "variable.other.positional.shell",
+        "variable.other.readwrite",
+        "variable.other.special.shell"
       ],
       "settings": {
         "foreground": "#99c2eb"
@@ -208,12 +210,14 @@
         "meta",
         "storage.modifier.import.java",
         "storage.modifier.swift",
+        "string.interpolated.dollar.shell",
         "support.class.crystal",
         "support.constant.ext.php",
         "support.function.mutator.js",
         "variable.language.prototype.js",
         "variable.other.block.crystal",
         "variable.other.block.ruby",
+        "variable.other.bracket.shell",
         "variable.other.constant",
         "variable.other.crystal",
         "variable.other.erlang",
@@ -305,7 +309,10 @@
         "support.function.url.latex",
         "text.asciidoc markup.code",
         "text.asciidoc markup.heading",
-        "variable.other.anonymous.elixir punctuation.definition.variable.elixir"
+        "variable.other.anonymous.elixir punctuation.definition.variable.elixir",
+        "variable.other.normal.shell punctuation.definition.variable.shell",
+        "variable.other.positional.shell punctuation.definition.variable.shell",
+        "variable.other.special.shell punctuation.definition.variable.shell"
       ],
       "settings": {
         "foreground": "#ff9d35"
@@ -318,6 +325,7 @@
         "constant.character.asciidoc",
         "constant.language.unit.haskell",
         "keyword.operator.decorator.js",
+        "keyword.operator.list.shell",
         "markup.heading.block-attribute.asciidoc",
         "markup.heading.marker.asciidoc",
         "markup.heading.setext",
@@ -338,6 +346,7 @@
         "punctuation.definition",
         "punctuation",
         "source.js meta.delimiter",
+        "source.shell string.interpolated string.quoted punctuation.definition",
         "support.asciidoc",
         "text.asciidoc constant.other.symbol",
         "text.asciidoc markup.code markup.heading",
@@ -362,11 +371,13 @@
         "punctuation.definition.list.begin.markdown",
         "punctuation.definition.template-expression.begin",
         "punctuation.definition.template-expression.end",
+        "punctuation.definition.variable.shell",
         "punctuation.quasi.element.begin.js",
         "punctuation.quasi.element.end.js",
         "punctuation.section.embedded",
         "source.dart string.interpolated variable.parameter",
         "source.js support.class.component",
+        "source.shell string.interpolated punctuation.definition",
         "storage.type.format.python",
         "string.other.link.description.markdown",
         "string.other.link.title.markdown",
