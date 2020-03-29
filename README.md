@@ -76,16 +76,13 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Ruby ([Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) + [VSCode Ruby](https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby))
 - Rust ([Rust (rls)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust))
 - shell script
+- SQL
 - Swift ([Swift Language](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift))
 - TypeScript
 
 <!--
 ## Planned languages:
 
-Priority:
-- SQL
-
-Then:
 - F#
 - Gleam
 - Idris
@@ -100,5 +97,3 @@ Then:
 - Scheme
 - TLA+
 -->
-
-PRs for unsupported languages are welcome. Scopes can be viewed by opening the command palette and selecting `Developer: Inspect Editor Tokens and Scopes`. Theme colors are listed in [`colors.txt`](./colors.txt).
