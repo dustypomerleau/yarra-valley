@@ -72,6 +72,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - PHP
 - Python ([Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python))
 - R ([R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r))
+- Reason ([reason-vscode](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) or [OCaml and Reason IDE](https://marketplace.visualstudio.com/items?itemName=freebroccolo.reasonml))
 - Ruby ([Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) + [VSCode Ruby](https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby))
 - Rust ([Rust (rls)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust))
 - shell script
@@ -82,7 +83,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 ## Planned languages:
 
 Priority:
-- Reason ML
 - SQL
 
 Then:
