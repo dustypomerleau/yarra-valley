@@ -49,35 +49,35 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 
 ## Supported languages and extensions:
 
-- AsciiDoc ([AsciiDoc](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode))
-- C ([C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools))
-- C# ([C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp))
-- C++ ([C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools))
+- AsciiDoc ([AsciiDoc][])
+- C ([C/C++][])
+- C# ([C#][])
+- C++ ([C/C++][])
 - Clojure
-- Crystal ([Crystal Language](https://marketplace.visualstudio.com/items?itemName=faustinoaq.crystal-lang))
+- Crystal ([Crystal Language][])
 - CSS
-- Dart ([Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code))
-- Elixir ([ElixirLS Fork](https://marketplace.visualstudio.com/items?itemName=elixir-lsp.elixir-ls))
-- Elm ([Elm](https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode))
-- Erlang ([erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang))
-- Go ([Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go))
-- GraphQL ([GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql))
-- Haskell ([Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell))
+- Dart ([Dart Code][])
+- Elixir ([ElixirLS Fork][])
+- Elm ([Elm][])
+- Erlang ([erlang][])
+- Go ([Go][])
+- GraphQL ([GraphQL][])
+- Haskell ([Haskell Syntax Highlighting][])
 - HTML
-- Java ([Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack))
-- JavaScript ([Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel))
-- LaTeX ([LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop))
-- Lua ([Lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua))
+- Java ([Java Extension Pack][])
+- JavaScript ([Babel JavaScript][])
+- LaTeX ([LaTeX Workshop][])
+- Lua ([Lua][])
 - Markdown
 - PHP
-- Python ([Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python))
-- R ([R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r))
-- Reason ([reason-vscode](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) or [OCaml and Reason IDE](https://marketplace.visualstudio.com/items?itemName=freebroccolo.reasonml))
-- Ruby ([Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) + [VSCode Ruby](https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby))
-- Rust ([Rust (rls)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust))
+- Python ([Python][])
+- R ([R][])
+- Reason ([reason-vscode][] or [OCaml and Reason IDE][])
+- Ruby ([Ruby][] + [VSCode Ruby][])
+- Rust ([Rust (rls)][])
 - shell script
 - SQL
-- Swift ([Swift Language](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift))
+- Swift ([Swift Language][])
 - TypeScript
 
 <!--
@@ -97,3 +97,28 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Scheme
 - TLA+
 -->
+
+[AsciiDoc]: https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
+[Babel JavaScript]: https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel
+[C/C++]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
+[C/C++]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
+[C#]: https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
+[Crystal Language]: https://marketplace.visualstudio.com/items?itemName=faustinoaq.crystal-lang
+[Dart Code]: https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code
+[ElixirLS Fork]: https://marketplace.visualstudio.com/items?itemName=elixir-lsp.elixir-ls
+[Elm]: https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode
+[erlang]: https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang
+[Go]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go
+[GraphQL]: https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql
+[Haskell Syntax Highlighting]: https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell
+[Java Extension Pack]: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
+[LaTeX Workshop]: https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
+[Lua]: https://marketplace.visualstudio.com/items?itemName=sumneko.lua
+[OCaml and Reason IDE]: https://marketplace.visualstudio.com/items?itemName=freebroccolo.reasonml
+[Python]: https://marketplace.visualstudio.com/items?itemName=ms-python.python
+[R]: https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r
+[reason-vscode]: https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode
+[Ruby]: https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
+[Rust (rls)]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
+[Swift Language]: https://marketplace.visualstudio.com/items?itemName=Kasik96.swift
+[VSCode Ruby]: https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby
