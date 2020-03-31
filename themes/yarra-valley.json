@@ -32,6 +32,7 @@
         "constant.type-constructor.elm",
         "entity.name.function.asciidoc",
         "entity.name.function.clojure",
+        "entity.name.function.gleam",
         "entity.name.function.lua",
         "entity.name.function.rust",
         "entity.name.tag.yaml",
@@ -440,6 +441,7 @@
       "scope": [
         "constant.keyword.clojure",
         "constant.language.symbol",
+        "constant.other.gleam",
         "constant.other.reference.label.latex",
         "constant.other.reference.link.markdown",
         "constant.other.symbol", // atoms
