@@ -79,6 +79,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - SQL
 - Swift ([Swift Language][])
 - TypeScript
+- YAML
 
 <!--
 ## Planned languages:
@@ -96,7 +97,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Scala
 - Scheme
 - TLA+
-- YAML
 -->
 
 [AsciiDoc]: https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
