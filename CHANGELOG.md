@@ -2,6 +2,11 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.12.0]:** 2020-03-31
+
+- add TOML support
+- add Gleam support
+
 ## **[0.11.0]:** 2020-03-31
 
 - add YAML support

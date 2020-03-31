@@ -60,6 +60,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Elixir ([ElixirLS Fork][])
 - Elm ([Elm][])
 - Erlang ([erlang][])
+- Gleam ([Gleam Syntax][])
 - Go ([Go][])
 - GraphQL ([GraphQL][])
 - Haskell ([Haskell Syntax Highlighting][])
@@ -78,6 +79,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - shell script
 - SQL
 - Swift ([Swift Language][])
+- TOML ([Better TOML][])
 - TypeScript
 - YAML
 
@@ -85,7 +87,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 ## Planned languages:
 
 - F#
-- Gleam
 - Idris
 - Julia
 - Kotlin
@@ -101,6 +102,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 
 [AsciiDoc]: https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
 [Babel JavaScript]: https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel
+[Better TOML]: https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml
 [C/C++]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 [C/C++]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 [C#]: https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
@@ -109,6 +111,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 [ElixirLS Fork]: https://marketplace.visualstudio.com/items?itemName=elixir-lsp.elixir-ls
 [Elm]: https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode
 [erlang]: https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang
+[Gleam Syntax]: https://marketplace.visualstudio.com/items?itemName=gleam-syntax.gleam-syntax
 [Go]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go
 [GraphQL]: https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql
 [Haskell Syntax Highlighting]: https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell
