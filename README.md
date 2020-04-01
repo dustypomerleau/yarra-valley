@@ -85,7 +85,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 
 <!--
 ## Planned languages:
-
+- AHK
 - F#
 - Idris
 - Julia
