@@ -67,6 +67,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - HTML
 - Java ([Java Extension Pack][])
 - JavaScript ([Babel JavaScript][])
+- Kotlin ([Kotlin Language][])
 - LaTeX ([LaTeX Workshop][])
 - Lua ([Lua][])
 - Markdown
@@ -89,7 +90,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - F#
 - Idris
 - Julia
-- Kotlin
 - Objective-C
 - OCaml
 - Perl
@@ -116,6 +116,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 [GraphQL]: https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql
 [Haskell Syntax Highlighting]: https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell
 [Java Extension Pack]: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
+[Kotlin Language]: https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin
 [LaTeX Workshop]: https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
 [Lua]: https://marketplace.visualstudio.com/items?itemName=sumneko.lua
 [OCaml and Reason IDE]: https://marketplace.visualstudio.com/items?itemName=freebroccolo.reasonml
