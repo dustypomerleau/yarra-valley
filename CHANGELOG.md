@@ -2,6 +2,10 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.13.0]:** 2020-04-01
+
+- add Kotlin support
+
 ## **[0.12.0]:** 2020-03-31
 
 - add TOML support
