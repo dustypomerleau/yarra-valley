@@ -90,6 +90,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Idris
 - Julia
 - Kotlin
+- makefile
 - Objective-C
 - OCaml
 - Perl
