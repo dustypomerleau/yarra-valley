@@ -95,6 +95,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - OCaml
 - Perl
 - Pony
+- Powershell
 - reStructuredText
 - Sass
 - Scala
