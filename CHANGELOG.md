@@ -5,6 +5,10 @@ Notable changes to the Yarra Valley theme extension will be documented in this f
 ## **[0.13.0]:** 2020-04-01
 
 - add Kotlin support
+- minor color adjustments to existing languages
+  - C
+  - C#
+  - Haskell
 
 ## **[0.12.0]:** 2020-03-31
 
