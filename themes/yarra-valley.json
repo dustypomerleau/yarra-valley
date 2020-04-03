@@ -57,7 +57,6 @@
         "source.haskell constant",
         "source.reason entity.name.class",
         "source.ts support.class",
-        "storage.type.cs",
         "support.class.console.js",
         "support.class.crystal",
         "support.class.dart",
@@ -113,6 +112,7 @@
         "constant.other.database-name.sql",
         "entity.name.class",
         "entity.name.function.c",
+        "entity.name.function.cs",
         "entity.name.function.dart",
         "entity.name.function.guard.erlang",
         "entity.name.package.go",
@@ -151,7 +151,6 @@
         "variable.language",
         "variable.other.constant.elixir",
         "variable.other.object.access.cpp",
-        "variable.other.object.cs",
         "variable.other.swift"
       ],
       "settings": {
@@ -200,7 +199,6 @@
       "scope": [
         "constant",
         "entity.name.function.call.cpp",
-        "entity.name.function.cs",
         "entity.name.function.java",
         "entity.name.function.member.cpp",
         "entity.name.record.field.accessor.elm",
@@ -220,6 +218,7 @@
         "source.yaml string.unquoted",
         "storage.modifier.import.java",
         "storage.modifier.swift",
+        "storage.type.cs",
         "string.interpolated.dollar.shell",
         "support.constant.ext.php",
         "support.function.mutator.js",
