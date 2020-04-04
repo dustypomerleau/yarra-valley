@@ -2,6 +2,10 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.16.0]:** 2020-04-04
+
+- add makefile support
+
 ## **[0.15.0]:** 2020-04-04
 
 - add OCaml support

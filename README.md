@@ -70,6 +70,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Kotlin ([Kotlin Language][])
 - LaTeX ([LaTeX Workshop][])
 - Lua ([Lua][])
+- makefile
 - Markdown
 - Ocaml ([reason-vscode][] or [OCaml and Reason IDE][])
 - PHP
@@ -89,7 +90,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 
 <!--
 ## Planned languages:
-- makefile
 - reStructuredText
 - Powershell
 - AHK
