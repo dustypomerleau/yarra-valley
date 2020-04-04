@@ -71,6 +71,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - LaTeX ([LaTeX Workshop][])
 - Lua ([Lua][])
 - Markdown
+- Ocaml ([reason-vscode][] or [OCaml and Reason IDE][])
 - PHP
 - Python ([Python][])
 - R ([R][])
@@ -94,7 +95,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Julia
 - makefile
 - Objective-C
-- OCaml
 - Perl
 - Pony
 - Powershell

@@ -2,6 +2,10 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.15.0]:** 2020-04-04
+
+- add OCaml support
+
 ## **[0.14.0]:** 2020-04-04
 
 - add Sass and SCSS support
