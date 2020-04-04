@@ -16,6 +16,7 @@
       "scope": [
         "comment",
         "punctuation.definition.comment",
+        "source.ocaml meta.separator.markdown",
         "source.python string.quoted.docstring.multi punctuation.definition.string.begin",
         "source.python string.quoted.docstring.multi punctuation.definition.string.end",
         "string.quoted.docstring"
@@ -58,6 +59,7 @@
         "source.cpp entity.name.scope-resolution",
         "source.css.scss meta.property-list entity.name.tag",
         "source.haskell constant",
+        "source.ocaml entity.name.class constant.numeric",
         "source.reason entity.name.class",
         "source.ts support.class",
         "support.class.console.js",
@@ -181,6 +183,7 @@
         "source.elm meta.import support.module",
         "source.graphql meta.type.interface support.type",
         "source.haskell entity.name.namespace",
+        "source.ocaml entity.name.filename",
         "source.python meta.function-call",
         "source.sass keyword.control.at-rule",
         "source.swift meta.definition.type.extension.swift entity.name.type.swift support.type.swift",
@@ -323,6 +326,13 @@
         "punctuation.type.flowtype",
         "sass.script.maps",
         "source.cpp punctuation.separator",
+        "source.ocaml keyword markup.underline",
+        "source.ocaml keyword.control markup.underline",
+        "source.ocaml storage.type markup.underline",
+        "source.ocaml support.type strong",
+        "source.ocaml variable.other.class.js message.error variable.interpolation string.regexp markup.underline",
+        "source.ocaml variable.other.class.js message.error variable.interpolation string.regexp strong",
+        "source.ocaml variable.other.class.js message.error variable.interpolation string.regexp",
         "source.rust storage.modifier",
         "source.sass constant.numeric.module.dot",
         "source.sass support.function.name keyword.control.at-rule",
@@ -373,6 +383,7 @@
         "punctuation.definition",
         "punctuation",
         "source.js meta.delimiter",
+        "source.ocaml string.regexp strong",
         "source.sass entity.name.function",
         "source.shell string.interpolated string.quoted punctuation.definition",
         "support.asciidoc",
@@ -551,6 +562,18 @@
       "settings": {
         "fontStyle": "italic",
         "foreground": "#99c2eb"
+      }
+    },
+    {
+      "name": "ocaml keywords: remove underline",
+      "scope": [
+        "source.ocaml keyword markup.underline",
+        "source.ocaml keyword.control markup.underline",
+        "source.ocaml storage.type markup.underline",
+        "source.ocaml variable.other.class.js message.error variable.interpolation string.regexp markup.underline"
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {
