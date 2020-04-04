@@ -77,6 +77,8 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Reason ([reason-vscode][] or [OCaml and Reason IDE][])
 - Ruby ([Ruby][] + [VSCode Ruby][])
 - Rust ([Rust (rls)][])
+- Sass ([Sass][])
+- SCSS
 - shell script
 - SQL
 - Swift ([Swift Language][])
@@ -98,10 +100,8 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Pony
 - Powershell
 - reStructuredText
-- Sass
 - Scala
 - Scheme
-- SCSS
 - TLA+
 -->
 
@@ -130,5 +130,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 [reason-vscode]: https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode
 [Ruby]: https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
 [Rust (rls)]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
+[Sass]: https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented
 [Swift Language]: https://marketplace.visualstudio.com/items?itemName=Kasik96.swift
 [VSCode Ruby]: https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby
