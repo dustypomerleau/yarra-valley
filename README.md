@@ -89,16 +89,16 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 
 <!--
 ## Planned languages:
+- makefile
+- reStructuredText
+- Powershell
 - AHK
+- Objective-C
 - F#
 - Idris
 - Julia
-- makefile
-- Objective-C
 - Perl
 - Pony
-- Powershell
-- reStructuredText
 - Scala
 - Scheme
 - TLA+
