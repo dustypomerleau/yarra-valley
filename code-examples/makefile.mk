@@ -1,3 +1,5 @@
+# source: https://www.gnu.org/software/make/manual/html_node/Complex-Makefile.html#Complex-Makefile
+
 #!/usr/bin/make -f
 # Generated automatically from Makefile.in by configure.
 # Un*x Makefile for GNU tar program.
