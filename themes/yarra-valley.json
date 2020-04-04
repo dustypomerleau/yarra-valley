@@ -56,6 +56,7 @@
         "meta.object.flowtype variable.other.readwrite.js",
         "parameter.variable.function.elixir",
         "source.cpp entity.name.scope-resolution",
+        "source.css.scss meta.property-list entity.name.tag",
         "source.haskell constant",
         "source.reason entity.name.class",
         "source.ts support.class",
@@ -179,6 +180,7 @@
         "source.graphql meta.type.interface support.type",
         "source.haskell entity.name.namespace",
         "source.python meta.function-call",
+        "source.css.scss keyword.control.at-rule",
         "source.swift meta.definition.type.extension.swift entity.name.type.swift support.type.swift",
         "storage.modifier.attribute.swift",
         "storage.type.annotation.java",
@@ -475,6 +477,7 @@
         "variable.other",
         "variable.parameter.function.swift entity.name.function.swift",
         "variable.parameter",
+        "variable.scss",
         "variable.type.elm"
       ],
       "settings": {
@@ -487,6 +490,7 @@
         "markup.heading",
         "markup.inserted.git_gutter",
         "markup.mark.asciidoc",
+        "meta.attribute-selector.scss",
         "source.reason string.regexp",
         "string",
         "support.function.general.tex",
