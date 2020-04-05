@@ -74,9 +74,11 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Markdown
 - Ocaml ([reason-vscode][] or [OCaml and Reason IDE][])
 - PHP
+- PowerShell ([PowerShell][])
 - Python ([Python][])
 - R ([R][])
 - Reason ([reason-vscode][] or [OCaml and Reason IDE][])
+- reStructuredText ([reStructuredText][])
 - Ruby ([Ruby][] + [VSCode Ruby][])
 - Rust ([Rust (rls)][])
 - Sass ([Sass][])
@@ -90,8 +92,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 
 <!--
 ## Planned languages:
-- reStructuredText
-- Powershell
 - AHK
 - Objective-C
 - F#
@@ -124,9 +124,11 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 [LaTeX Workshop]: https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
 [Lua]: https://marketplace.visualstudio.com/items?itemName=sumneko.lua
 [OCaml and Reason IDE]: https://marketplace.visualstudio.com/items?itemName=freebroccolo.reasonml
+[PowerShell]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell
 [Python]: https://marketplace.visualstudio.com/items?itemName=ms-python.python
 [R]: https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r
 [reason-vscode]: https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode
+[reStructuredText]: https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext
 [Ruby]: https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
 [Rust (rls)]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
 [Sass]: https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented
