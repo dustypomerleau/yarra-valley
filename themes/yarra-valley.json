@@ -287,7 +287,6 @@
       "name": "orange: keywords, control, storage",
       "scope": [
         "entity.name.section.markdown",
-        "kewyword.operator.union.flowtype", // sic
         "keyword.control.anchor.regexp",
         "keyword.control.newline.tex",
         "keyword.operator.negation.regexp",
