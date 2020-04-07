@@ -319,6 +319,7 @@
         "punctuation.definition.variable.powershell",
         "punctuation.dot.dart",
         "punctuation.other.period.go",
+        "punctuation.parens.ellipses.elm",
         "punctuation.separator.argument-label.swift",
         "punctuation.separator.clause-head-body.erlang",
         "punctuation.separator.dictionary.key-value.json",
