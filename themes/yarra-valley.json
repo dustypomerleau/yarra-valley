@@ -299,6 +299,7 @@
         "markup.quote punctuation.definition.blockquote.markdown",
         "markup.substitution.attribute-reference.asciidoc",
         "meta.directive.erlang",
+        "meta.other.unknown.elm",
         "meta.property-list.css.sass.prop",
         "meta.separator",
         "meta.structure.tuple.erlang",
