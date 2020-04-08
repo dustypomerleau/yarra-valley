@@ -53,7 +53,6 @@
         "meta.function-call.erlang variable.other.erlang",
         "meta.function-call.php variable.other.php",
         "meta.generic-where-clause.swift",
-        "meta.method-call.with-arguments.js variable.other.constant.js",
         "meta.object.flowtype storage.type.function.js",
         "meta.object.flowtype variable.other.readwrite.js",
         "parameter.variable.function.elixir",
