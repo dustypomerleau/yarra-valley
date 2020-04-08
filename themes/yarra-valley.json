@@ -235,7 +235,7 @@
         "meta.function-call.c",
         "meta.function-call.erlang variable.other.erlang",
         "meta.function-call.swift",
-        "meta.function.js support.type",
+        "meta.function.js support",
         "meta.method-call.with-arguments.js support.type",
         "meta.type.object.graphql support.type.graphql",
         "meta",
