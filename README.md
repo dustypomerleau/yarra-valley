@@ -93,15 +93,16 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 <!--
 ## Planned languages:
 - AHK
-- Objective-C
 - F#
 - Idris
 - Julia
+- Objective-C
 - Perl
 - Pony
 - Scala
 - Scheme
 - TLA+
+- Vim
 -->
 
 [AsciiDoc]: https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
