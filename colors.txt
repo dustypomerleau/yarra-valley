@@ -32,6 +32,11 @@ background monochromes
 #474e6c
 #51597b
 
+foreground tints
+#fdf2d8
+#fdf3dc
+#fdf5e0
+
 foreground shades
 #e3d8be
 #cac0a9
