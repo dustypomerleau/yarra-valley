@@ -92,6 +92,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 
 <!--
 ## Planned languages:
+- review JSX/TSX samples
 - AHK
 - F#
 - Idris
