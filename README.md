@@ -88,6 +88,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Swift ([Swift Language][])
 - TOML ([Better TOML][])
 - TypeScript
+- VimScript ([VimL][])
 - YAML
 
 <!--
@@ -103,7 +104,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Scala
 - Scheme
 - TLA+
-- Vim
 -->
 
 [AsciiDoc]: https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
@@ -135,4 +135,5 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 [Rust (rls)]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
 [Sass]: https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented
 [Swift Language]: https://marketplace.visualstudio.com/items?itemName=Kasik96.swift
+[VimL]: https://marketplace.visualstudio.com/items?itemName=XadillaX.viml
 [VSCode Ruby]: https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby
