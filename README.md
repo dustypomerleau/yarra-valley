@@ -68,6 +68,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Idris ([Idris][])
 - Java ([Java Extension Pack][])
 - JavaScript ([Babel JavaScript][])
+- JavaScript React (JSX)
 - Kotlin ([Kotlin Language][])
 - LaTeX ([LaTeX Workshop][])
 - Lua ([Lua][])
@@ -89,12 +90,12 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Swift ([Swift Language][])
 - TOML ([Better TOML][])
 - TypeScript
+- TypeScript React (TSX)
 - VimScript ([VimL][])
 - YAML
 
 <!--
 ## Planned languages:
-- review JSX/TSX samples
 - AHK
 - F#
 - Julia
