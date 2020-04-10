@@ -174,3 +174,14 @@ endfunc
 func! CurrentFileDir(cmd)
     return a:cmd . " " . expand("%:p:h") . "/"
 endfunc
+
+" extra content for showing `support.function` scope
+:echo mapcheck('<F1>', 'n')
+:set wrap!<CR>
+
+:echo mapcheck('<F2>', 'n')
+(empty string)
+
+if mapcheck('<F1>', 'n') is# ''
+  nnoremap <F1> :call myplugin#action()<CR>
+endif
