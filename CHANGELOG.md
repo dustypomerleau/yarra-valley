@@ -2,6 +2,11 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.19.0]:** 2020-04-10
+
+- add Idris support
+- update Clojure for consistency + legibility
+
 ## **[0.18.0]:** 2020-04-10
 
 - add VimScript support
