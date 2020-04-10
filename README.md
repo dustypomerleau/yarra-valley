@@ -65,6 +65,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - GraphQL ([GraphQL][])
 - Haskell ([Haskell Syntax Highlighting][])
 - HTML
+- Idris ([Idris][])
 - Java ([Java Extension Pack][])
 - JavaScript ([Babel JavaScript][])
 - Kotlin ([Kotlin Language][])
@@ -96,7 +97,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - review JSX/TSX samples
 - AHK
 - F#
-- Idris
 - Julia
 - Objective-C
 - Perl
@@ -121,6 +121,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 [Go]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go
 [GraphQL]: https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql
 [Haskell Syntax Highlighting]: https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell
+[Idris]: https://marketplace.visualstudio.com/items?itemName=zjhmale.Idris
 [Java Extension Pack]: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
 [Kotlin Language]: https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin
 [LaTeX Workshop]: https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
