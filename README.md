@@ -60,6 +60,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Elixir ([ElixirLS Fork][])
 - Elm ([Elm][])
 - Erlang ([erlang][])
+- F# ([Ionide-fsharp][])
 - Gleam ([Gleam Syntax][])
 - Go ([Go][])
 - GraphQL ([GraphQL][])
@@ -97,7 +98,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 <!--
 ## Planned languages:
 - AHK
-- F#
 - Julia
 - Objective-C
 - Perl
@@ -123,6 +123,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 [GraphQL]: https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql
 [Haskell Syntax Highlighting]: https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell
 [Idris]: https://marketplace.visualstudio.com/items?itemName=zjhmale.Idris
+[Ionide-fsharp]: https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp
 [Java Extension Pack]: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
 [Kotlin Language]: https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin
 [LaTeX Workshop]: https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
