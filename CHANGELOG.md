@@ -2,6 +2,10 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.18.0]:** 2020-04-10
+
+- add VimScript support
+
 ## **[0.17.0]:** 2020-04-05
 
 - add PowerShell support
