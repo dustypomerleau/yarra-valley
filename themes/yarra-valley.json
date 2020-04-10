@@ -72,6 +72,7 @@
         "support.function.lua",
         "support.function.r",
         "support.type.object",
+        "support.type.option.viml",
         "support.type.property-name.css",
         "support.type.property-name.media.css",
         "support.type.swift",
@@ -125,6 +126,7 @@
         "entity.name.function.cs",
         "entity.name.function.dart",
         "entity.name.function.guard.erlang",
+        "entity.name.function.viml",
         "entity.name.section",
         "entity.other.attribute-name.html",
         "entity.other.attribute-name.pseudo-class.css",
@@ -161,6 +163,7 @@
         "support.function.powershell",
         "support.function.swift",
         "support.function.target.PHONY.makefile",
+        "support.function.viml",
         "support.type.builtin.graphql",
         "support.variable.swift",
         "text.restructuredtext constant.other.footnote.link",
@@ -176,6 +179,7 @@
     {
       "name": "light pink: modules, classes",
       "scope": [
+        "constant.character.map.key.viml",
         "constant.other.general.math.tex",
         "entity.name.class.js",
         "entity.name.class.kotlin",
@@ -246,6 +250,7 @@
         "storage.modifier.swift",
         "storage.type.cs",
         "string.interpolated.dollar.shell",
+        "string.regexp.viml",
         "support.constant.ext.php",
         "variable.language.prototype.js",
         "variable.other.block.crystal",
@@ -423,6 +428,7 @@
       "name": "pink: interpolations, regular expressions",
       "scope": [
         "constant.character.format.placeholder.other.python",
+        "constant.character.map.viml",
         "constant.language.lua",
         "constant.numeric.math.tex",
         "constant.other.footnote.link.restructuredtext",
