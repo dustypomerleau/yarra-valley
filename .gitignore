@@ -3,5 +3,6 @@
 *.code-workspace
 *.vsix
 js-example.js
+ts-react/
 vsc-extension-quickstart.md
 yarra-valley-icon*
