@@ -201,6 +201,7 @@
         "source.elm meta.import support.module",
         "source.graphql meta.type.interface support.type",
         "source.haskell entity.name.namespace",
+        "source.idris constant.language",
         "source.ocaml entity.name.filename",
         "source.python meta.function-call",
         "source.sass keyword.control.at-rule",
