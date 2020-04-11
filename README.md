@@ -104,7 +104,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Perl
 - Pony
 - Scala
-- Scheme
 - TLA+
 -->
 
