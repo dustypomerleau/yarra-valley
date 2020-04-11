@@ -85,6 +85,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Ruby ([Ruby][] + [VSCode Ruby][])
 - Rust ([Rust (rls)][])
 - Sass ([Sass][])
+- Scheme ([vscode-scheme][])
 - SCSS
 - shell script
 - SQL
@@ -140,3 +141,4 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 [Swift Language]: https://marketplace.visualstudio.com/items?itemName=Kasik96.swift
 [VimL]: https://marketplace.visualstudio.com/items?itemName=XadillaX.viml
 [VSCode Ruby]: https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby
+[vscode-scheme]: https://marketplace.visualstudio.com/items?itemName=sjhuangx.vscode-scheme
