@@ -2,6 +2,10 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.22.0]:** 2020-04-11
+
+- add Scheme support
+
 ## **[0.21.0]:** 2020-04-11
 
 - add F# support
