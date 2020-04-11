@@ -2,6 +2,10 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.21.0]:** 2020-04-11
+
+- add F# support
+
 ## **[0.20.0]:** 2020-04-10
 
 - add proper support for the built-in JSX and TSX syntax
