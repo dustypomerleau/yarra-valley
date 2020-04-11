@@ -883,7 +883,7 @@
     "editor.findMatchBackground": "#f1436040",
     "editor.findMatchHighlightBackground": "#fbe1a340",
     "editor.findRangeHighlightBackground": "#474e6c",
-    "editor.focusedStackFrameHighlightBackground": "#3d435d",
+    "editor.focusedStackFrameHighlightBackground": "#242837",
     "editor.foreground": "#cac0a9",
     "editor.hoverHighlightBackground": "#474e6c",
     "editor.inactiveSelectionBackground": "#cac0a930",
