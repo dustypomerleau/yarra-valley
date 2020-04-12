@@ -638,6 +638,7 @@
         "keyword.type.cs",
         "markup.heading.list.asciidoc",
         "markup.highlight.asciidoc",
+        "storage.class.std.rust",
         "storage.type.core.rust",
         "string constant.other.placeholder"
       ],
