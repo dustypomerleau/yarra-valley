@@ -106,6 +106,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Racket
 - Scala
 - TLA+
+- Zig
 -->
 
 [AsciiDoc]: https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
