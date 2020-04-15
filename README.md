@@ -72,6 +72,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - JavaScript React (JSX)
 - Kotlin ([Kotlin Language][])
 - LaTeX ([LaTeX Workshop][])
+- Less
 - Lua ([Lua][])
 - makefile
 - Markdown
