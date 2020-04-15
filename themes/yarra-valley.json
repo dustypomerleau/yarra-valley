@@ -97,6 +97,7 @@
         "text.html.derivative variable.language",
         "variable.function.r",
         "variable.graphql",
+        "variable.other.constant.object",
         "variable.other.object",
         "variable.other.positional.shell",
         "variable.other.readwrite",
