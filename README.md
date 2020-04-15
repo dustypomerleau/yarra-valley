@@ -107,6 +107,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Racket
 - Scala
 - TLA+
+- Visual Basic
 - Zig
 -->
 
