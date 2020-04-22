@@ -649,11 +649,15 @@
       }
     },
     {
-      "name": "self",
+      "name": "self, super",
       "scope": [
         "markup.admonition entity.name.function.asciidoc",
         "variable.language.self.crystal",
-        "variable.language.special.self.python"
+        "variable.language.special.self.python",
+        "variable.language.super.js.jsx",
+        "variable.language.super.js",
+        "variable.language.super.ts",
+        "variable.language.super.tsx"
       ],
       "settings": {
         "fontStyle": "italic",
