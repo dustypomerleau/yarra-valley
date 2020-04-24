@@ -57,7 +57,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Crystal ([Crystal Language][])
 - CSS
 - Dart ([Dart Code][])
-- Elixir ([ElixirLS Fork][])
+- Elixir ([ElixirLS][])
 - Elm ([Elm][])
 - Erlang ([erlang][])
 - F# ([Ionide-fsharp][])
@@ -119,7 +119,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 [C#]: https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
 [Crystal Language]: https://marketplace.visualstudio.com/items?itemName=faustinoaq.crystal-lang
 [Dart Code]: https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code
-[ElixirLS Fork]: https://marketplace.visualstudio.com/items?itemName=elixir-lsp.elixir-ls
+[ElixirLS]: https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls
 [Elm]: https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode
 [erlang]: https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang
 [Gleam Syntax]: https://marketplace.visualstudio.com/items?itemName=gleam-syntax.gleam-syntax
