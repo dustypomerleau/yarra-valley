@@ -896,7 +896,7 @@
       "settings": {
         "foreground": "#ff9d35"
       }
-    },
+    }
   ],
   "colors": {
     "activityBar.background": "#292d3e",
@@ -1053,7 +1053,7 @@
     "merge.incomingHeaderBackground": "#ff9d3580",
     "notificationCenterHeader.background": "#535664",
     "notificationLink.foreground": "#268bd2",
-    "notifications.background": "#3e4251",
+    "notifications.background": "#242837",
     "notifications.border": "#696c77",
     "panel.background": "#292d3e",
     "panel.border": "#3e4251",
