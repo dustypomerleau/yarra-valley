@@ -12,7 +12,7 @@ Here on the slopes of the Yarra, our syntax highlighting receives the same care 
 In addition, some extensions may enable their own semantic highlighting. In order to see the intended theme colors, this can also be disabled at the extension level. For example, when using C/C++ Intellisense:
 
 ```json
-  "C_Cpp.enhancedColorization": "disabled"
+  "C_Cpp.enhancedColorization": "Disabled"
 ```
 
 ## Screenshots:
