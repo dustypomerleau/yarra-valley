@@ -2,6 +2,11 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.24.0]:** 2020-05-10
+
+- improve legibility and consistency of terminal colors
+- match notification background and header to other lists so hover highlight works
+
 ## **[0.23.0]:** 2020-04-11
 
 - improvements to Rust highlighting
