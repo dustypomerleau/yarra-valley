@@ -30,7 +30,7 @@
       }
     },
     {
-      "name": "slate: objects, function calls",
+      "name": "slate: objects, keys",
       "scope": [
         "constant.other.table-name.sql",
         "constant.type-constructor.elm",
@@ -97,6 +97,7 @@
         "text.html.derivative variable.language",
         "variable.function.r",
         "variable.graphql",
+        "variable.other.anonymous.elixir",
         "variable.other.constant.object",
         "variable.other.object",
         "variable.other.positional.shell",
