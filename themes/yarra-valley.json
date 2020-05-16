@@ -278,6 +278,7 @@
         "meta.method-call.with-arguments.js support.type",
         "meta.type.object.graphql support.type.graphql",
         "meta",
+        "source.elixir.embedded",
         "source.idris meta.parameter variable.parameter",
         "source.powershell interpolated.simple.source meta.scriptblock meta.hashtable meta.hashtable.assignment variable.other.readwrite.powershell",
         "source.reason constant.language constant.numeric",
