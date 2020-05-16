@@ -513,6 +513,7 @@
         "punctuation.quasi.element.end.js",
         "punctuation.section.embedded",
         "source.dart string.interpolated variable.parameter",
+        "source.elixir.embedded.source.empty",
         "source.js support.class.component",
         "source.rust support.function",
         "source.shell string.interpolated punctuation.definition",
