@@ -105,7 +105,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Objective-C
 - Perl
 - Pony
-- Racket
 - Scala
 - TLA+
 - Visual Basic
