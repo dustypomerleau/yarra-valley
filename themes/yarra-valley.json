@@ -34,6 +34,7 @@
       "scope": [
         "constant.other.table-name.sql",
         "constant.type-constructor.elm",
+        "entity.name.constant.racket",
         "entity.name.function.asciidoc",
         "entity.name.function.gleam",
         "entity.name.function.lua",
@@ -193,6 +194,7 @@
         "support.function.go",
         "support.function.mutator.js",
         "support.function.powershell",
+        "support.function.racket",
         "support.function.swift",
         "support.function.target.PHONY.makefile",
         "support.type.builtin.graphql",
