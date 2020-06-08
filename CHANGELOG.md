@@ -2,6 +2,10 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.25.0]:** 2020-06-08
+
+- add Racket support
+
 ## **[0.24.0]:** 2020-05-10
 
 - improve legibility and consistency of terminal colors
