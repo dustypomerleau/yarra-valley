@@ -81,6 +81,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - PowerShell ([PowerShell][])
 - Python ([Python][])
 - R ([R][])
+- Racket ([Magic Racket][])
 - Reason ([reason-vscode][] or [OCaml and Reason IDE][])
 - reStructuredText ([reStructuredText][])
 - Ruby ([Ruby][] + [VSCode Ruby][])
@@ -132,6 +133,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 [Kotlin Language]: https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin
 [LaTeX Workshop]: https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
 [Lua]: https://marketplace.visualstudio.com/items?itemName=sumneko.lua
+[Magic Racket]: https://marketplace.visualstudio.com/items?itemName=evzen-wybitul.magic-racket
 [OCaml and Reason IDE]: https://marketplace.visualstudio.com/items?itemName=freebroccolo.reasonml
 [PowerShell]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell
 [Python]: https://marketplace.visualstudio.com/items?itemName=ms-python.python
