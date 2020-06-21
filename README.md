@@ -109,6 +109,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - TLA+
 - Visual Basic
 - Zig
+...
 -->
 
 [AsciiDoc]: https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
