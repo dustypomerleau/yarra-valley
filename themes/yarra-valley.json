@@ -904,6 +904,7 @@
     }
   ],
   "colors": {
+    "activityBar.activeBackground": "#242837",
     "activityBar.background": "#292d3e",
     "activityBar.dropBackground": "#cac0a980",
     "activityBar.foreground": "#cc7d2a",
