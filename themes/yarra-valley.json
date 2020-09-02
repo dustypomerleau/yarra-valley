@@ -1049,7 +1049,7 @@
     "menu.selectionBackground": "#3e4251",
     "menu.selectionForeground": "#fdf1d4",
     "menu.separatorBackground": "#cac0a9",
-    "menubar.selectionBackground": "#242837",
+    "menubar.selectionBackground": "#3e4251",
     "menubar.selectionForeground": "#fdf1d4",
     "merge.commonContentBackground": "#cac0a930",
     "merge.commonHeaderBackground": "#cac0a980",
