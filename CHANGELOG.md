@@ -2,6 +2,10 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.26.0]:** 2020-09-03
+
+- Complete revision of Haskell highlighting
+
 ## **[0.25.0]:** 2020-06-08
 
 - add Racket support
