@@ -116,3 +116,69 @@ extractBuildConfig hpRel tarFile prefix bcIncludeExtra =
     bcHpVersion = relVersion hpRel
     bcPrefix = prefix
     ok = (length parts >= 5) && (ghcPrefix == "ghc")
+
+newtype Fd = Fd CInt
+-- data Fd = Fd CInt would also be valid
+
+-- newtypes can have deriving clauses just like normal types
+newtype Identity a = Identity a
+  deriving (Eq, Ord, Read, Show)
+
+-- record syntax is still allowed, but only for one field
+newtype State s a = State { runState :: s -> (s, a) }
+
+-- this is *not* allowed:
+-- newtype Pair a b = Pair { pairFst :: a, pairSnd :: b }
+-- but this is:
+data Pair a b = Pair { pairFst :: a, pairSnd :: b }
+-- and so is this:
+newtype NPair a b = NPair (a, b)
+
+data Person = Person { firstName :: String
+                     , lastName :: String
+                     , age :: Int
+                     , height :: Float
+                     , phoneNumber :: String
+                     , flavor :: String
+                     } deriving (Show)
+
+addVectors :: (Num a) => (a, a) -> (a, a) -> (a, a)
+addVectors (x1, y1) (x2, y2) = (x1 + x2, y1 + y2)
+
+first :: (a, b, c) -> a
+first (x, _, _) = x
+
+second :: (a, b, c) -> b
+second (_, y, _) = y
+
+third :: (a, b, c) -> c
+third (_, _, z) = z
+
+myCompare :: (Ord a) => a -> a -> Ordering
+a `myCompare` b
+    | a > b     = GT
+    | a == b    = EQ
+    | otherwise = LT
+
+3 `myCompare` 2
+
+initials :: String -> String -> String
+initials firstname lastname = [f] ++ ". " ++ [l] ++ "."
+    where (f:_) = firstname
+          (l:_) = lastname
+
+head' :: [a] -> a
+head' xs = case xs of [] -> error "No head for empty lists!"
+                      (x:_) -> x
+
+take' :: (Num i, Ord i) => i -> [a] -> [a]
+take' n _
+    | n <= 0   = []
+take' _ []     = []
+take' n (x:xs) = x : take' (n-1) xs
+
+addThree :: (Num a) => a -> a -> a -> a
+addThree = \x -> \y -> \z -> x + y + z
+
+sum' :: (Num a) => [a] -> a
+sum' xs = foldl (\acc x -> acc + x) 0 xs
