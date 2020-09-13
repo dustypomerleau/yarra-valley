@@ -68,7 +68,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - HTML
 - Idris ([Idris][])
 - Java ([Java Extension Pack][])
-- JavaScript ([Babel JavaScript][])
+- JavaScript
 - JavaScript React (JSX)
 - Kotlin ([Kotlin Language][])
 - LaTeX ([LaTeX Workshop][])
@@ -85,7 +85,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Reason ([reason-vscode][] or [OCaml and Reason IDE][])
 - reStructuredText ([reStructuredText][])
 - Ruby ([Ruby][] + [VSCode Ruby][])
-- Rust ([Rust (rls)][])
+- Rust ([Rust (rls)][] or [rust-analyzer][])
 - Sass ([Sass][])
 - Scheme ([vscode-scheme][])
 - SCSS
@@ -112,7 +112,6 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 -->
 
 [AsciiDoc]: https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
-[Babel JavaScript]: https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel
 [Better TOML]: https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml
 [C/C++]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 [C/C++]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
@@ -141,6 +140,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 [reStructuredText]: https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext
 [Ruby]: https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
 [Rust (rls)]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
+[rust-analyzer]: https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer
 [Sass]: https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented
 [Swift Language]: https://marketplace.visualstudio.com/items?itemName=Kasik96.swift
 [VimL]: https://marketplace.visualstudio.com/items?itemName=XadillaX.viml
