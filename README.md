@@ -15,6 +15,8 @@ In addition, some extensions may enable their own semantic highlighting. In orde
   "C_Cpp.enhancedColorization": "Disabled"
 ```
 
+Semantic highlighting provides a greater guarantee of correctness than regex-based highlighting systems, but it does this at the expense of nuance, such as distinguishing function declarations from function calls. The images below are shown with semantic highlighting disabled.
+
 ## Screenshots:
 
 ## Typescript
@@ -25,6 +27,9 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 
 ## Elixir
 ![elixir](./images/elixir.png)
+
+## Rust (using [Rust Syntax][])
+![rust](./images/rust.png)
 
 ## Ruby
 ![ruby](./images/ruby.png)
@@ -85,7 +90,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 - Reason ([reason-vscode][] or [OCaml and Reason IDE][])
 - reStructuredText ([reStructuredText][])
 - Ruby ([Ruby][] + [VSCode Ruby][])
-- Rust ([Rust (rls)][] or [rust-analyzer][])
+- Rust ([Rust Syntax][] + [Rust (rls)][] or [rust-analyzer][])
 - Sass ([Sass][])
 - Scheme ([vscode-scheme][])
 - SCSS
@@ -140,6 +145,7 @@ In addition, some extensions may enable their own semantic highlighting. In orde
 [reStructuredText]: https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext
 [Ruby]: https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
 [Rust (rls)]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
+[Rust Syntax]: https://marketplace.visualstudio.com/items?itemName=dustypomerleau.rust-syntax
 [rust-analyzer]: https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer
 [Sass]: https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented
 [Swift Language]: https://marketplace.visualstudio.com/items?itemName=Kasik96.swift

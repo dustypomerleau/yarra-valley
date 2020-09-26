@@ -2,6 +2,10 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.27.0]:** 2020-09-26
+
+- Complete revision of Rust highlighting, using [Rust Syntax][] scopes
+
 ## **[0.26.0]:** 2020-09-03
 
 - Complete revision of Haskell highlighting
@@ -122,3 +126,5 @@ Notable changes to the Yarra Valley theme extension will be documented in this f
 
 ## **[0.1.0]:** 2020-03-14
 - initial release
+
+[Rust Syntax]: https://marketplace.visualstudio.com/items?itemName=dustypomerleau.rust-syntax
