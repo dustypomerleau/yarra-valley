@@ -90,7 +90,7 @@ Semantic highlighting provides a greater guarantee of correctness than regex-bas
 - Reason ([reason-vscode][] or [OCaml and Reason IDE][])
 - reStructuredText ([reStructuredText][])
 - Ruby ([Ruby][] + [VSCode Ruby][])
-- Rust ([Rust Syntax][] + [Rust (rls)][] or [rust-analyzer][])
+- Rust ([Rust Syntax][] + [Rust][])
 - Sass ([Sass][])
 - Scheme ([vscode-scheme][])
 - SCSS
@@ -144,9 +144,8 @@ Semantic highlighting provides a greater guarantee of correctness than regex-bas
 [reason-vscode]: https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode
 [reStructuredText]: https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext
 [Ruby]: https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
-[Rust (rls)]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
+[Rust]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
 [Rust Syntax]: https://marketplace.visualstudio.com/items?itemName=dustypomerleau.rust-syntax
-[rust-analyzer]: https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer
 [Sass]: https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented
 [Swift Language]: https://marketplace.visualstudio.com/items?itemName=Kasik96.swift
 [VimL]: https://marketplace.visualstudio.com/items?itemName=XadillaX.viml
