@@ -3,19 +3,21 @@
 
 Here on the slopes of the Yarra, our syntax highlighting receives the same care and attention as our cool climate pinot noir. Thanks for coming to visit. We hope you like it here, and we hope you stay.
 
-**NOTE:** If your code doesn't look as expected, you may have VS Code's semantic highlighting enabled. This is layered on top of the syntax highlighting of your theme, and can be disabled in your `settings.json` file:
+## A word about semantic highlighting
+
+Screenshots here are shown with semantic highlighting disabled:
 
 ```json
  "editor.semanticHighlighting.enabled": false
 ```
 
-In addition, some extensions may enable their own semantic highlighting. In order to see the intended theme colors, this can also be disabled at the extension level. For example, when using C/C++ Intellisense:
+Or at the individual extension level:
 
 ```json
   "C_Cpp.enhancedColorization": "Disabled"
 ```
 
-Semantic highlighting provides a greater guarantee of correctness than regex-based highlighting systems, but it does this at the expense of nuance, such as distinguishing function declarations from function calls. The images below are shown with semantic highlighting disabled.
+My short-term roadmap does include semantic highlighting for supported languages. However, there will be some tradeoffs if you choose to enable semantic highlighting, as the semantic highlighting API does not allow the level of nuance shown here.
 
 ## Screenshots:
 
