@@ -2,6 +2,10 @@
 
 Notable changes to the Yarra Valley theme extension will be documented in this file.
 
+## **[0.29.0]:** 2020-10-19
+
+- Add support for semantic highlighting
+
 ## **[0.28.0]:** 2020-10-10
 
 - update for revised [Rust Syntax][] scopes
