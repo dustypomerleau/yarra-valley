@@ -3,7 +3,9 @@
 
 Here on the slopes of the Yarra, our syntax highlighting receives the same care and attention as our cool climate pinot noir. Thanks for coming to visit. We hope you like it here, and we hope you stay.
 
-## A word about semantic highlighting
+## Semantic highlighting
+
+Yarra Valley now includes semantic highlighting for supported languages. Semantic highlighting provides a greater guarantee that tokens will be highlighted correctly, but typically provides less nuanced highlighting.
 
 Screenshots here are shown with semantic highlighting disabled:
 
@@ -16,8 +18,6 @@ Or at the individual extension level:
 ```json
   "C_Cpp.enhancedColorization": "Disabled"
 ```
-
-My short-term roadmap does include semantic highlighting for supported languages. However, there will be some tradeoffs if you choose to enable semantic highlighting, as the semantic highlighting API does not allow the level of nuance shown here.
 
 ## Screenshots:
 
