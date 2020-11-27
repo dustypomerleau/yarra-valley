@@ -6,6 +6,7 @@
     "builtinType": "#c651e5",
     "class": "#ff89b5",
     "comment": "#7e818b",
+    "enum:rust": "#abb8c0",
     "enum": "#99c2eb",
     "enumMember:rust": "#ee37aa",
     "enumMember": "#cac0a9",
