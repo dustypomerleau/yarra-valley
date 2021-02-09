@@ -57,7 +57,6 @@
       "name": "test",
       "scope": [
         // test scope
-
       ],
       "settings": {
         "foreground": "#ffff00"
@@ -1017,6 +1016,7 @@
     "dropdown.background": "#242837",
     "dropdown.border": "#535664",
     "dropdown.foreground": "#fdf1d4",
+    "dropdown.listBackground": "#242837",
     "editor.background": "#292d3e",
     "editor.findMatchBackground": "#f1436040",
     "editor.findMatchHighlightBackground": "#fbe1a340",
