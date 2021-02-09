@@ -57,6 +57,7 @@
       "name": "test",
       "scope": [
         // test scope
+
       ],
       "settings": {
         "foreground": "#ffff00"
@@ -96,11 +97,9 @@
         "entity.name.tag.yaml",
         "entity.name.type.class.kotlin",
         "entity.name.type.declaration.rust",
-        "entity.name.type.enum.rust",
         "entity.name.type.instance",
         "entity.name.type.macro.rust",
         "entity.name.type.struct.rust",
-        "entity.name.type.trait.rust",
         "entity.other.inherited-class.kotlin",
         "keyword.control.at-rule",
         "keyword.key.toml",
@@ -246,6 +245,7 @@
         "source.js constant.other.object.key.js string.unquoted.js",
         "source.js meta.function-call.without-arguments entity.name.function",
         "source.reason constant.language",
+        "source.rust entity.name.type.enum.rust",
         "source.scheme support.function",
         "source.viml support.function",
         "storage.type.annotation.kotlin",
@@ -300,6 +300,7 @@
         "source.haskell entity.name.namespace",
         "source.ocaml entity.name.filename",
         "source.python meta.function-call",
+        "source.rust entity.name.type.trait.rust",
         "source.sass keyword.control.at-rule",
         "source.swift meta.definition.type.extension.swift entity.name.type.swift support.type.swift",
         "storage.modifier.attribute.swift",
@@ -1003,7 +1004,7 @@
     "breadcrumb.background": "#292d3e",
     "breadcrumb.focusForeground": "#fdf1d4",
     "breadcrumb.foreground": "#b1a894",
-    "breadcrumbPicker.background": "#3e4251",
+    "breadcrumbPicker.background": "#242837",
     "button.background": "#324251",
     "button.foreground": "#e3d8be",
     "button.hoverBackground": "#696c77",
@@ -1013,7 +1014,7 @@
     "descriptionForeground": "#fdf1d4",
     "diffEditor.insertedTextBackground": "#aecc0030",
     "diffEditor.removedTextBackground": "#a3151530",
-    "dropdown.background": "#3e4251",
+    "dropdown.background": "#242837",
     "dropdown.border": "#535664",
     "dropdown.foreground": "#fdf1d4",
     "editor.background": "#292d3e",
