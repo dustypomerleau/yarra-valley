@@ -1,19 +1,16 @@
 main theme colors
-
 #292d3e background
-#4ce7ff punctuation
-#7cdf89 escape
+#44bb99 function definition, escape
+#77aadd object, struct
 #7e818b comment
-#8af899 function definitions
-#99c2eb object
-#abb8c0 function call
-#aecc00 string
-#c651e5 argument, atom
+#99ddff punctuation
+#aaaa00 (unused)
+#bbcc33 string
 #cac0a9 foreground
-#ee37aa interpolation, regex
-#f14360 number, boolean
-#ff89b5 class, module
-#ff9d35 keyword, operator
+#dddddd function call, enum
+#ee8866 keyword, operator, UuI
+#eedd88 argument, atom
+#ffaabb number, boolean, class, trait, module, interpolation
 
 background tints
 #3e4251
@@ -43,10 +40,15 @@ foreground shades
 #b1a894
 #97907f
 
-orange shades
-#e58d2f
-#cc7d2a
-#b26d25
+blue tints
+#84b2e0
+#92bbe3
+#9fc3e7
+
+blue shades
+#6b99c6
+#5f88b0
+#53769a
 
 taupe monochromes
 #fdf1d4
