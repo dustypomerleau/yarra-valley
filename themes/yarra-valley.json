@@ -1182,7 +1182,7 @@
     "settings.checkboxBackground": "#242837",
     "settings.checkboxBorder": "#696c77",
     "settings.checkboxForeground": "#fdf1d4",
-    "settings.dropdownBackground": "#3e4251",
+    "settings.dropdownBackground": "#242837",
     "settings.dropdownBorder": "#696c77",
     "settings.dropdownForeground": "#e3d8be",
     "settings.dropdownListBorder": "#696c77",
