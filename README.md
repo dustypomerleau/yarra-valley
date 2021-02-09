@@ -5,7 +5,7 @@ Here on the slopes of the Yarra, our syntax highlighting receives the same care 
 
 ## Semantic highlighting
 
-Yarra Valley now includes semantic highlighting for supported languages. Semantic highlighting provides a greater guarantee that tokens will be highlighted correctly, but typically provides less nuanced highlighting.
+Yarra Valley now includes semantic highlighting for supported languages. Semantic highlighting provides a greater guarantee that tokens will be highlighted correctly, but may provide less nuanced highlighting.
 
 Screenshots here are shown with semantic highlighting disabled:
 
