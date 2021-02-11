@@ -508,6 +508,7 @@ defmodule DynamicSupervisor do
       an empty list.
 
   """
+
   @doc since: "1.6.0"
   @spec init([init_option]) :: {:ok, sup_flags()}
   def init(options) when is_list(options) do
