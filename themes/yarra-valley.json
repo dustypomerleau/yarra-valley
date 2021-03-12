@@ -3,6 +3,7 @@
   "type": "dark",
   "semanticTokenColors": {
     "attribute": "#abb8c0",
+    "boolean": "#f14360",
     "builtinType": "#c651e5",
     "class": "#ff89b5",
     "comment": "#7e818b",
