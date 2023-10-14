@@ -1,5 +1,15 @@
 # Yarra Valley
+
 ## Your new favorite dark theme for Visual Studio Code
+
+---
+
+### A note on maintenance:
+
+I have moved on to using [Tol.nvim][] as my regular theme.
+I will gladly merge PRs to keep this repo working nicely for everyone, but I won't be actively maintaining it.
+
+---
 
 Here on the slopes of the Yarra, our syntax highlighting receives the same care and attention as our cool climate pinot noir. Thanks for coming to visit. We hope you like it here, and we hope you stay.
 
@@ -22,36 +32,47 @@ Or at the individual extension level:
 ## Screenshots:
 
 ## Typescript
+
 ![typescript](./images/typescript.png)
 
 ## React
+
 ![react](./images/react.png)
 
 ## Elixir
+
 ![elixir](./images/elixir.png)
 
 ## Rust (using [Rust Syntax][])
+
 ![rust](./images/rust.png)
 
 ## Ruby
+
 ![ruby](./images/ruby.png)
 
 ## Go
+
 ![go](./images/go.png)
 
 ## Elm
+
 ![elm](./images/elm.png)
 
 ## HTML
+
 ![html](./images/html.png)
 
 ## CSS
+
 ![css](./images/css.png)
 
 ## Python
+
 ![python](./images/python.png)
 
 ## Markdown
+
 ![markdown](./images/markdown.png)
 
 ## Supported languages and extensions:
@@ -120,9 +141,8 @@ Or at the individual extension level:
 
 [AsciiDoc]: https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
 [Better TOML]: https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml
-[C/C++]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
-[C/C++]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 [C#]: https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
+[C/C++]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 [Crystal Language]: https://marketplace.visualstudio.com/items?itemName=faustinoaq.crystal-lang
 [Dart Code]: https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code
 [ElixirLS]: https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls
@@ -146,10 +166,11 @@ Or at the individual extension level:
 [reason-vscode]: https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode
 [reStructuredText]: https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext
 [Ruby]: https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
-[Rust]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
 [Rust Syntax]: https://marketplace.visualstudio.com/items?itemName=dustypomerleau.rust-syntax
+[Rust]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
 [Sass]: https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented
 [Swift Language]: https://marketplace.visualstudio.com/items?itemName=Kasik96.swift
+[Tol.nvim]: https://github.com/dustypomerleau/tol.nvim
 [VimL]: https://marketplace.visualstudio.com/items?itemName=XadillaX.viml
 [VSCode Ruby]: https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby
 [vscode-scheme]: https://marketplace.visualstudio.com/items?itemName=sjhuangx.vscode-scheme
