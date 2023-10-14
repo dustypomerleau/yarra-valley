@@ -1,7 +1,10 @@
 /* https://madebyfew.com/ */
 
+:root {
+  --variable
+}
 html {
-  overflow-x: hidden;
+  overflow-x: var(--variable);
 }
 
 body {
